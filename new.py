@@ -2,8 +2,10 @@ from flask import Flask, request, jsonify
 import sqlite3
 import json
 import difflib
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 db_path = 'shona.db'
 
 # Create SQLite database and table
@@ -54,6 +56,9 @@ def load_shona(json_file, db_path):
     conn.commit()
     conn.close()
 
+@app.route('/', methods=['POST'])
+def add_word():
+    return jsonify({'message': 'Welcome to module 2'})
 
 @app.route('/add_word', methods=['POST'])
 def add_word():
