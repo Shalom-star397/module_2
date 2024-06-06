@@ -57,7 +57,7 @@ def load_shona(json_file, db_path):
     conn.close()
 
 @app.route('/', methods=['POST'])
-def add_word():
+def greet():
     return jsonify({'message': 'Welcome to module 2'})
 
 @app.route('/add_word', methods=['POST'])
