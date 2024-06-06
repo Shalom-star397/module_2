@@ -15,7 +15,7 @@
             "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
             "meaning_2":"Izwi rokukudza mudzimai wose wose",
             "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta mhai vake nehanzvadzi.",
-            "similar_words":"amai,mhamha"
+            "similar_words":"amai,mhamha,mai"
              
   
           },
@@ -24,10 +24,17 @@
              "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
              "meaning_2":"Izwi rokukudza mudzimai wose wose",
              "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta mhamha vake nehanzvadzi.",
-            "similar_words":"mai,mhai,mhamha"
-             
-  
+            "similar_words":"mai,mhai,amai"
+        
         },
+        { 
+          "word":"mai",
+          "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
+          "meaning_2":"Izwi rokukudza mudzimai wose wose",
+          "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta mhamha vake nehanzvadzi.",
+         "similar_words":"mai,mhai,amai"
+     
+     },
          { 
            "word":"barwe",
            "meaning_1":"imbeu inogayiwa kuita upfu hunobikiswa sadza ",
@@ -4094,9 +4101,17 @@
         {  
           "word":"fupa",
           "meaning_1":"kupa kana kuitira munhu chimwe kuti akanganwe zvaakatadzirwa",
-          "meaning_2":"bhonzo",
+          "meaning_2":"izwi rinoreva bhonzo",
           "example_sentence":"vakamufupa nemombe mbiri pavakadyisa mumunda make nemombe dzavo",
           "similar_words":"pfupa"
+          
+        },
+        {  
+          "word":"pfupa",
+          "meaning_1":"izwi rinoreva bhonzo",
+          "meaning_2":"",
+          "example_sentence":"akatyoka pfupa rake ariku bhora",
+          "similar_words":"fupa"
           
         },
         {  
