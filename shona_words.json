@@ -1,0 +1,4250 @@
+{"words":[
+
+  
+       { 
+          "word":"amai",
+          "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
+          "meaning_2":"Izwi rokukudza mudzimai wose wose",
+          "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta amai vake nehanzvadzi.",
+          "similar_words":"mai,mhai,mhamha"
+          
+          
+        },
+        { 
+           "word":"mhai",
+            "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
+            "meaning_2":"Izwi rokukudza mudzimai wose wose",
+            "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta mhai vake nehanzvadzi.",
+            "similar_words":"amai,mhamha"
+             
+  
+          },
+         { 
+             "word":"mhamha",
+             "meaning_1":"Izwi rinodaidzwa mubereki wechikadzi",
+             "meaning_2":"Izwi rokukudza mudzimai wose wose",
+             "example_sentence":"Mushure merufu rwababa vake, raive basa rake rekuchengeta mhamha vake nehanzvadzi.",
+            "similar_words":"mai,mhai,mhamha"
+             
+  
+        },
+         { 
+           "word":"barwe",
+           "meaning_1":"imbeu inogayiwa kuita upfu hunobikiswa sadza ",
+           "meaning_2":" ",
+           "example_sentence":"mabarwe avakakohwa gore rino akanyatsosvika, anobuditsa hupfu hwakanaka",
+           "similar_words":"gwere,bahwe,chibage"
+           
+         
+         }, 
+          { 
+              "word":"gwere",
+              "meaning_1":"imbeu inogayiwa kuita upfu hunobikiswa sadza ",
+               "meaning_2":" ",
+               "example_sentence":"magwere avakakohwa gore rino akanyatsosvika, anobuditsa hupfu hwakanaka",
+               "similar_words":"bahwe,chibage"
+                
+  
+           }, 
+             { 
+                "word":"chibage",
+                "meaning_1":"imbeu inogayiwa kuita upfu hunobikiswa sadza ",
+                "meaning_2":" ",
+                "example_sentence":"chibage chavakakohwa gore rino chakanyatsosvika, chinobuditsa hupfu hwakanaka",
+                "similar_words":"gwere,bahwe"
+                
+
+            }, 
+            {   "word": "aini",
+                "meaning_1":"isimbi yokuchisisa mbatya inodziyiswa uchishandisa maratya kana magetsi",
+                 "meaning_2":" ",
+                 "example_sentence":"Hembe dzinoita mupono kana ukadzichisa neaini",
+                "similar_words":""
+              
+            
+             },
+
+          {   "word":"aiwa",
+             "meaning_1":"Kana munhu achiti aiwa anenge ari kuramba zvinenge zviri kutaurwa nezvazvo",
+             "meaning_2":" ",
+             "example_sentence":"mukomana akati aiwa achiramba mari yakanga yashaikwa mumba mavo ",
+             "similar_words":"kwete"
+             
+             
+          },
+          {   "word":"kwete",
+             "meaning_1":"Kana munhu achiti aiwa anenge ari kuramba zvinenge zviri kutaurwa nezvazvo",
+             "meaning_2":" ",
+             "example_sentence":"mukomana akati kwete achiramba mari yakanga yashaikwa mumba mavo ",
+             "similar_words":"aiwa"
+             
+             
+          },
+          {    "word":"aizi",
+              "meaning_1":"magodo echando chakagwamba",
+              "meaning_2":" ",
+              "example_sentence":"baba vanofarira kunwa mvura ine maaizi",
+               "similar_words":""
+               
+                
+           },
+             {  "word":"akaunzi",
+                "meaning_1":"chikwereti chokutora zvinhu muchitoromubhadharo uchibviswa pamwedzi woga woga",
+                "meaning_2":" ",
+                "example_sentence":"baba vakaona akaunzi dzavo dzekubhanga dzawedzera pavakaregedza kubhadhara chikwereti mumwe mwedzi",
+                "similar_words":""
+                
+                  
+              },
+              {    "word":"amaiguru",
+                   "meaning_1":"mukadzi akaroorwa nababa kutangira amai",
+                   "meaning_2":"mukoma wamai kana mudzimai wemukoma ",
+                   "example_sentence":"amaiguru vanofarira kuenda  kuchibhorani kunochera mvura",
+                   "similar_words":"maiguru"
+            
+                 
+               },
+               {    "word":"maiguru",
+                   "meaning_1":"mukadzi akaroorwa nababa kutangira amai",
+                   "meaning_2":"mukoma wamai kana mudzimai wemukoma ",
+                   "example_sentence":"maiguru vanofarira kuenda  kuchibhorani kunochera mvura",
+                   "similar_words":"amaiguru"
+                    
+                 
+               },
+
+           {  "word":"amainini",
+             "meaning_1":"munin'ina wamai ari mudiki kwaari pamakore kana mukadzi akaroorwa nababa mushure mamai",
+             "meaning_2":" mudzimai wemunini'na",
+             "example_sentence":"vana vakaenda kwaamainini vavo munun'ina wamai vavo kuzororo",
+             "similar_words":"mainini"
+             
+           },
+           {  "word":"mainini",
+             "meaning_1":"munin'ina wamai ari mudiki kwaari pamakore kana mukadzi akaroorwa nababa mushure mamai",
+             "meaning_2":" mudzimai wemunini'na",
+             "example_sentence":"vana vakaenda kwaamainini vavo munun'ina wamai vavo kuzororo",
+             "similar_words":"amainini"
+             
+           },
+
+           {"word":"ambuka",
+            "meaning_1":"kuenda kumhiri kwerwizi",
+            "meaning_2":"",
+            "example_sentence":" vana vakaambuka rwizi zuva rodoka vakasangana nevakadzi vaiwacha hembe",
+            "similar_words":" bira,yambuka"
+          },
+          {"word":"yambuka",
+            "meaning_1":"kuenda kumhiri kwerwizi",
+            "meaning_2":"",
+            "example_sentence":" vana vakayambuka rwizi zuva rodoka vakasangana nevakadzi vaiwacha hembe",
+            "similar_words":" bira,yambuka"
+            
+         
+
+          },
+          {"word":"bira",
+            "meaning_1":"kuenda kumhiri kwerwizi",
+            "meaning_2":"",
+            "example_sentence":" vana vakabira rwizi zuva rodoka vakasangana nevakadzi vaiwacha hembe",
+            "similar_words":" bira,yambuka"
+            
+         
+          },
+          {
+            "word":"amburenzi",
+            "meaning_1":"Iyi imotokari inoshandiswa kutakura varwere kana kuti vanhu vakuvara kuenda kuchipatara",
+            "meaning_2":"",
+            "example_sentence":"amai pavakarwara nemimba vakatkurwa neamburenzi kuenda kuchipatara",
+            "similar_words":""
+            
+         
+
+          },
+          
+          {
+            "word":"ambuuya",
+            "meaning_1":"amai vomudzimai vanosheedzwa nemurume anenge akaroora achipa ruremekedzo kuamai vemukadzi wake",
+            "meaning_2":"",
+            "similar_words":"",
+            "example_sentence":"mukuwasha akapfugama akaombera zvikuru paakasangana naambuya vake"
+          
+          },
+          {
+            "word":"gogo",
+            "meaning_1":"munhukadzi ari amai vababa kana amai vaamai ,",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo mukomana akakura achirerwa nagogo mai vababa",
+            "similar_words":"ambuya"
+            
+
+          },
+          {
+            "word":"ambuya",
+            "meaning_1":"munhukadzi ari amai vababa kana amai vaamai ,",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo mukomana akakura achirerwa nambuya mai vababa",
+            "similar_words":"gogo"
+            
+
+          },
+          {
+            "word":"ambuyamudendere",
+            "meaning_1":"kapuka kane makumbo marefu nokubhururuka nokudayawo tumwe tupuka",
+            "meaning_2":"",
+            "example_sentence":"mwana pakamhariwa nekambuyamudendere arikumunda akaridza mhere",
+            "similar_words":"kachemberebande,mbuyamudendere"
+            
+          
+
+          },
+          {
+            "word":"kachemberebande",
+            "meaning_1":"kapuka kane makumbo marefu nokubhururuka nokudayawo tumwe tupuka",
+            "meaning_2":"",
+            "example_sentence":"mwana pakamhariwa nekachemberebande arikumunda akaridza mhere",
+            "similar_words":"ambuyamudendere,mbuyamudendere"
+            
+          },  
+          {
+            "word":"mbuyamudendere",
+            "meaning_1":"kapuka kane makumbo marefu nokubhururuka nokudayawo tumwe tupuka",
+            "meaning_2":"",
+            "example_sentence":"mwana pakamhariwa nekambuyamudendere arikumunda akaridza mhere",
+            "similar_words":"kachemberebande,ambuyamudendere"
+            
+          },
+          {
+            "word":"amwa",
+            "meaning_1":"kusvisvina kana kusveta mukaka uri muzamu ramai sezvinoita mucheche",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo anoamwa mukaka zvakanyanya ndosaka akanyanya kusimba",
+            "similar_words":"yamwa"
+            
+          
+
+          },
+          {
+            "word":"yamwa",
+            "meaning_1":"kusvisvina kana kusveta mukaka uri muzamu ramai sezvinoita mucheche",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo anoyamwa mukaka zvakanyanya ndosaka akanyanya kusimba",
+            "similar_words":"amwa"
+            
+          
+
+          },
+          {
+            "word":"ani",
+            "meaning_1":"mubvunzo wokuda kuziva munhu ",
+            "meaning_2":"",
+            "example_sentence":"ndiani akadero baba vakabvunza pavakanzwa nyaya yaitaurwa muraini",
+            "similar_words":"ndiani"
+            
+          
+
+          },
+          {
+            "word":"anika",
+            "meaning_1":"kuturika mbatya pamutariro kana kuisa zvinhu muzuva kuti zviome",
+            "meaning_2":"",
+            "example_sentence":"musikana akaanika mbatya dzaakanga awacha pamutariro",
+            "similar_words":"nika,yanika,nanika"
+            
+          
+
+          },
+          {
+            "word":"anika",
+            "meaning_1":"kuturika mbatya pamutariro kana kuisa zvinhu muzuva kuti zviome",
+            "meaning_2":"",
+            "example_sentence":"musikana akaanika mbatya dzaakanga awacha pamutariro",
+            "similar_words":"nika,yanika,nanika"
+            
+          
+
+          },
+          {
+            "word":"yanika",
+            "meaning_1":"kuturika mbatya pamutariro kana kuisa zvinhu muzuva kuti zviome",
+            "meaning_2":"",
+            "example_sentence":"musikana akayanika mbatya dzaakanga awacha pamutariro",
+            "similar_words":"nika,nanika"
+            
+          
+
+          },
+          {
+            "word":"nika",
+            "meaning_1":"kuturika mbatya pamutariro kana kuisa zvinhu muzuva kuti zviome",
+            "meaning_2":"",
+            "example_sentence":"musikana akanika mbatya dzaakanga awacha pamutariro",
+            "similar_words":"yanika,nanika"
+            
+          },
+          
+          
+          {
+            "word":"asi",
+            "meaning_1":"izwi rinoratidza udzamu hwezvakaitika",
+            "meaning_2":"",
+            "example_sentence":"akaenda kumusha asika airwara",
+             "similar_words":""
+  
+          },
+          {
+            "word":"ba",
+            "meaning_1":"izwi rinoreva kuramba",
+            "meaning_2":"",
+            "example_sentence":"handimuzivi ba",
+            "similar_words":"kwete"
+            
+          },
+          {
+            "word":"baba",
+            "meaning_1":"izwi rinoshandiswa kupa ruremekedzo kumunhurume wese wechikuru",
+            "meaning_2":"",
+            "example_sentence":"baba vake vakakura vachigara  kumusha",
+            "similar_words":"bambo"
+            
+          
+
+          },
+          {
+            "word":"bambo",
+            "meaning_1":"izwi rinoshandiswa kupa ruremekedzo kumunhurume wese wechikuru",
+            "meaning_2":"",
+            "example_sentence":"baba vake vakakura vachigara  kumusha",
+            "similar_words":"baba"
+            
+          
+
+          },
+          {
+            "word":"babamukuru",
+            "meaning_1":"mukoma wemurume anenge ava nemhuri anodaidzwa nemunin'ina nemhuri yakewo vachimuti babamukuru",
+            "meaning_2":"",
+            "example_sentence":"vana vakaenda kwabamukuru wavo kuzororo",
+            "similar_words":""
+            
+          
+
+          },
+          {
+            "word":"bado",
+            "meaning_1":"demo kana risina misikisa rine buri rokupfekera mupinyi",
+            "meaning_2":"",
+            "example_sentence":"mukomana akatyora  bado aripakati pekutsemura huni dzekubikisa sadza",
+            "similar_words":"demo"
+            
+          
+
+          },
+          {
+            "word":"demo",
+            "meaning_1":"demo kana risina misikisa rine buri rokupfekera mupinyi",
+            "meaning_2":"",
+            "example_sentence":"mukomana akatyora  demo aripakati pekutsemura huni dzekubikisa sadza",
+            "similar_words":""
+            
+          
+
+          },
+          {
+            "word":"badarika",
+            "meaning_1":"kutadza kugara zvakanaka pamusana pokurwadziwa kana kunetseka mupfungwa",
+            "meaning_2":"",
+            "example_sentence":"akabadarika paakanzwa zvekufa kwamai vake",
+            "similar_words":""
+            
+          
+
+          },
+          {
+            "word":"badza",
+            "meaning_1":" mudziyo wokurimisa unogadzirwa nesimbi yakapfekerwa mumupinyi unoshandiswa pakusakura",
+            "meaning_2":"imari inoripwa padare nanyakumhan'ara kuti mhosva yake itongwe.",
+            "example_sentence":"akazvitema nebadza paitema mashanga mumunda",
+            "similar_words":""
+            
+          
+
+          },
+          {
+            "word":"bakatwa",
+            "meaning_1":"zibanga ziguru rinocheka nekwese kazhinji rinogara mumuhara",
+            "meaning_2":"",
+            "example_sentence":"akabuditsirwa bakatwa pakasangana nematsotsi achifamba kuenda kumba husiku",
+            "similar_words":"machete"
+            
+          },
+          {
+            "word":"machete",
+            "meaning_1":"zibanga ziguru rinocheka nekwese kazhinji rinogara mumuhara",
+            "meaning_2":"",
+            "example_sentence":"akabuditsirwa machete pakasangana nematsotsi achifamba kuenda kumba husiku",
+            "similar_words":"bakatwa"
+            
+          
+
+          },
+          {
+            "word":"baka",
+            "meaning_1":"kubvira kwemoto kana watungidzwa ",
+            "meaning_2":"",
+            "example_sentence":"moto wakabatidzwa pakwainaya wakabvira pawakadirwa parafini",
+            "similar_words":"bvira"
+            
+          
+
+          },
+          {
+            "word":"bvira",
+            "meaning_1":"kubvira kwemoto kana watungidzwa ",
+            "meaning_2":"",
+            "example_sentence":"moto wakabatidzwa pakwainaya wakabvira pawakadirwa parafini",
+            "similar_words":"baka"
+            
+          },
+          
+          {
+            "word":"bako",
+            "meaning_1":"mukana unowanikwa pakati pemabwe makuru munokwanisa kupindwa navanhu kana muhuka zvichihwanda sezvakaita mvura",
+            "meaning_2":"",
+            "example_sentence":"baba pavakaedza kuuraya nyoka yakamhanya kupinda mubako",
+            "similar_words":""
+            
+          },
+          {
+            "word":"bakayawa",
+            "meaning_1":"ihove yakaomeswa ine munyu wakawanda kwazvo",
+            "meaning_2":"",
+            "example_sentence":"amai vakabika sadza remanheru nemabakayawa",
+            "similar_words":"bakayava"
+            
+          
+          },
+          {
+            "word":"bakayava",
+            "meaning_1":"ihove yakaomeswa ine munyu wakawanda kwazvo",
+            "meaning_2":"",
+            "example_sentence":"amai vakabika sadza remanheru nemabakayawa",
+            "similar_words":"bakayawa"
+            
+          
+          },
+          { 
+            "word":"bakwa",
+            "meaning_1":"huni dzakaunganidzwa pamwechete pamba",
+            "meaning_2":"nzvimbo inogadzirwa mumba inoiswa mudziyo yomumba",
+            "example_sentence":"Huni dzakanga dzakaungana pabakwa dzakashandiswa kubika parufu",
+            "similar_words":""
+            
+        },
+          {
+            "word":"bamba",
+            "meaning_1":"kuita tsika yokutora zvavamwe nemasimba.",
+            "meaning_2":"",
+            "example_sentence":"mandevere  aibamba zvinhu zvevashona",
+            "similar_words":""
+            
+          },
+         
+          {
+            "word":"bambomukunda",
+            "meaning_1":"hanzvadzi yababa",
+            "meaning_2":"",
+            "example_sentence":"akafara zvikuru paakasangana nabambomukuda hanzvadzi yababa vake mudhorobha",
+            "similar_words":"tete"
+            
+          
+
+          },
+          {
+            "word":"tete",
+            "meaning_1":"hanzvadzi yababa",
+            "meaning_2":"",
+            "example_sentence":"akafara zvikuru paakasangana nabambomukuda hanzvadzi yababa vake mudhorobha",
+            "similar_words":"bambomukunda"
+            
+          
+
+          },
+          {
+            "word":"bango",
+            "meaning_1":" muti unoshandiswa kuta chidziro chemba kana danga nezvimwewo",
+            "meaning_2":"",
+            "example_sentence":"mapango akashandiswa kuvakisa danga remombe akasimba",
+            "similar_words":""
+            
+          
+        },
+        {
+          "word":"banda",
+            "meaning_1":" kuruma kana kutsenga zvinhu zvakaoma semaputi",
+            "meaning_2":"ibango rinodzimikirwa pakati pemba kuti risimbise denga pakuturika",
+            "example_sentence":"imbwa yakarara ichibanda mabhonzo akanga araswa mumarara",
+            "similar_words":"tsenga"
+            
+             
+        },
+       { 
+        "word":"tsenga",
+        "meaning_1":" kuruma kana kutsenga zvinhu zvakaoma semaputi",
+        "meaning_2":"ibango rinodzimikirwa pakati pemba kuti risimbise denga pakuturika",
+        "example_sentence":"imbwa yakarara ichitsenga mabhonzo akanga araswa mumarara",
+        "similar_words":"banda"
+        
+         
+    },
+        {
+          
+          "word":"bandika",
+            "meaning_1":"kubvuma kutsengeka",
+            "meaning_2":"",
+            "example_sentence":"tinopa huku dzedu dzachibage chakabandika",
+            "similar_words":"kutsengwatsengwa"
+                 
+        },
+        {
+          
+          "word":"kutsengwatsengwa",
+            "meaning_1":"kubvuma kutsengeka",
+            "meaning_2":"",
+            "example_sentence":"tinopa huku dzedu dzachibage chakabandika",
+            "similar_words":"bandika"
+            
+             
+        },
+        {
+          "word":"bandakadzi",
+            "meaning_1":"musevenzi wechikadzi kana muranda wechikadzi",
+            "meaning_2":"",
+            "example_sentence":"mambo vakazoora mudzimai wechipiri raiva riri bandakadzi pamusha pavo",
+            "similar_words":"murandakadzi"
+            
+             
+        }, 
+        {
+          "word":"murandakadzi",
+            "meaning_1":"musevenzi wechikadzi",
+            "meaning_2":"",
+            "example_sentence":"mambo vakazoora mudzimai wechipiri aiva murandakadzi pamusha pavo",
+            "similar_words":"bandakadzi"
+            
+             
+        }, 
+        {
+          "word":"bandamba",
+            "meaning_1":"izwi rinorakidza kukura kwechinhu",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo paakazvarwa aive nemusoro bandamba",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bandana",
+            "meaning_1":"kubandika kunoita zvinhu kana zvakwizirana",
+            "meaning_2":"",
+            "example_sentence":"simbi dzikabandana dzinopera",
+            "similar_words":"kudyanana"
+            
+             
+        },
+        {
+          "word":"bandaoko",
+            "meaning_1":"igumbo repamberi  pamakumbo emhuka",
+            "meaning_2":"",
+            "example_sentence":"pakauraiwa mombe parufu bandaoko rakagovewa kuvakadzi vadiki",
+            "similar_words":"bandauko"
+            
+             
+        },
+        {
+          "word":"bandauko",
+            "meaning_1":"igumbo repamberi  pamakumbo emhuka",
+            "meaning_2":"",
+            "example_sentence":"pakauraiwa mombe parufu bandauko rakagovewa kuvakadzi vadiki",
+            "similar_words":"bandaoko"
+             
+        },
+        {
+          "word":"bande",
+            "meaning_1":"idivi rimwe rezvakaita senzungu kana nyimo zvakatsemurwa nepakati",
+            "meaning_2":"",
+            "example_sentence":"musikana akabikira vaenzi bande renyimo nenzungu zvakasangana",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bandiko",
+            "meaning_1":" inyama inogoverwa munhu woga woga anenge abatsira pakuuraya n'ombe kana imwewo mhuka",
+            "meaning_2":"",
+            "example_sentence":"varume vakauraya mombe pamuchato vakenda kudzimba nebandiko ",
+            "similar_words":""
+          
+             
+        },
+        {
+          "word":"bandwe",
+            "meaning_1":"mwedzi wechishanu mugore",
+            "meaning_2":"",
+            "example_sentence":"mwana wamai Kanyemba akaroorwa mumwedzi wabandwe",
+            "similar_words":"chikumi"
+            
+             
+        },
+        {
+          "word":"chikumi",
+            "meaning_1":"mwedzi wechishanu mugore",
+            "meaning_2":"",
+            "example_sentence":"mwana wamai Kanyemba akaroorwa mumwedzi wabandwe",
+            "similar_words":"bandwe"
+            
+             
+        },
+        {
+          "word":"banga",
+            "meaning_1":"chombo chinoshandiswa kucheka zvinhu",
+            "meaning_2":"",
+            "example_sentence":"kumba kwavo banga rinoshandiswa kucheka nyama nerinoshandiswa kucheka chingwa zvakasiyana",
+            "similar_words":"mheswamesa"
+            
+   
+        },
+        {
+          "word":"mheswamesa",
+            "meaning_1":"chombo chinoshandiswa kucheka zvinhu",
+            "meaning_2":"",
+            "example_sentence":"kumba kwavo mheswamesa rinoshandiswa kucheka nyama nerinoshandiswa kucheka chingwa zvakasiyana",
+            "similar_words":"banga"
+            
+   
+        },
+        {
+          "word":"banganuka",
+            "meaning_1":"kupatika wava pamwe kana kuti waita chinhu chausingazivi kuti waita sei",
+            "meaning_2":"",
+            "example_sentence":"mukomana akabanganuka apo pakanga akurasika mudhorobha",
+            "similar_words":"pengenuka"
+            
+             
+        },
+        {
+          "word":"pengenuka",
+            "meaning_1":"kupatika wava pamwe kana kuti waita chinhu chausingazivi kuti waita sei",
+            "meaning_2":"",
+            "example_sentence":"mukomana akapengenuka apo pakanga akurasika mudhorobha",
+            "similar_words":"banganuka"
+            
+             
+        },
+        {
+          "word":"banganwa",
+            "meaning_1":"zano kana kuti chinhu chawiriranwa kuitwa",
+            "meaning_2":"",
+            "example_sentence":"vakaita banganwa neshamwari yake rekuti aifanhirwa kuramba mhosva kumapurisa yekubiwa kwakanga kwaitwa mari",
+            "similar_words":"bangano"
+          
+             
+        },
+        {
+          "word":"bangano",
+            "meaning_1":"zano kana kuti chinhu chawiriranwa kuitwa",
+            "meaning_2":"",
+            "example_sentence":"vakaita bangano neshamwari yake rekuti aifanhirwa kuramba mhosva kumapurisa yekubiwa kwakanga kwaitwa mari",
+            "similar_words":"banganwa"
+            
+             
+        },
+        {
+          "word":"bangara",
+            "meaning_1":"muriwo unomera muminda",
+            "meaning_2":"",
+            "example_sentence":"amai vakabikira vaenzi sadza nebangara",
+            "similar_words":"nyevhe"
+            
+             
+        },
+        {
+          "word":"nyevhe",
+            "meaning_1":"muriwo unomera muminda",
+            "meaning_2":"",
+            "example_sentence":"amai vakabikira vaenzi sadza nenyevhe",
+            "similar_words":"bangara"
+            
+             
+        },
+        {
+          "word":"kava",
+            "meaning_1":"kurova negumbo",
+            "meaning_2":"",
+            "example_sentence":"akatyoka gumbo rekuroboshwe aripakati pekukava bhora",
+            "similar_words":"banha"
+            
+             
+        },
+        {
+          "word":"banha",
+            "meaning_1":"kurova negumbo",
+            "meaning_2":"",
+            "example_sentence":"akatyoka gumbo rekuroboshwe aripakati pekubanha bhora",
+            "similar_words":"kava"
+            
+             
+        },
+        
+        {
+          "word":"barika",
+            "meaning_1":"imhuri yomurume ana vakadzi vaviri kana kupfuura vaviri",
+            "meaning_2":"",
+            "example_sentence":"hanzvadzi yake yakaroorwa nemurume aripa barika",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"basa",
+            "meaning_1":"kunzvimbo yemunhu kwaanoshandira",
+            "meaning_2":"",
+            "similar_words":"",
+            "example_sentence":"baba vake vapapomherwa mhosva yekuba pabasa"
+             
+        },
+        {
+          "word":"batapata",
+            "meaning_1":"kuitwa kwezvinhu zvakasiyana siyana nokukurumidza",
+            "meaning_2":"",
+            "example_sentence":"vana pavakaona nguva amai vavo dzkubva kubasa dzakwana vakaita batapata pabasa ravakanga vaswera vasina kuita",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"batidza",
+            "meaning_1":"kuisa moto pauswa kuti ubvirekana parambimwenje ",
+            "meaning_2":"",
+            "example_sentence":"pamba pavo vanorara vakabatidza mwenje panze kuitira mbavha",
+            "similar_words":"tungidza"
+            
+             
+        },
+        {
+          "word":"tungidza",
+            "meaning_1":"kuisa moto pauswa kuti ubvirekana parambimwenje ",
+            "meaning_2":"",
+            "example_sentence":"pamba pavo vanorara vakatungidza mwenje panze kuitira mbavha",
+            "similar_words":"batidza"
+            
+             
+        },
+        {
+          "word":"banzuka",
+            "meaning_1":"kutsemuka kunoita muti kana danda",
+            "meaning_2":"",
+            "example_sentence":"akashandisa demo kubanzuka huni nepakati",
+            "similar_words":"banzura"
+            
+             
+        },
+        {
+          "word":"banzura",
+            "meaning_1":"kutsemuka kunoita muti kana danda",
+            "meaning_2":"",
+            "example_sentence":"akashandisa demo kubanzura huni nepakati",
+            "similar_words":"banzuka"
+            
+             
+        },
+        {
+          "word":"bapatyuro",
+            "meaning_1":" Iyi ishumba inodya vanhu",
+            "meaning_2":"rimwe zita reshumba rinoreva kuti ine simba",
+            "example_sentence":"",
+            "similar_words":"batyuro"
+            
+             
+        },
+        {
+          "word":"bapiro",
+            "meaning_1":"nhengo yomuviri weshiri kana wotumbuvu inosakisa kuti zvigone kubhururuka",
+            "meaning_2":"",
+            "example_sentence":"mwana anofarira kudya bapiro panyama yehuku",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bapu",
+            "meaning_1":"nhengo yemuviri ine basa rokutora mweya mutsva pakufema kunoita munhu kana mhuka ",
+            "meaning_2":"",
+            "example_sentence":"akavhenekwa nanachiremba vakaona kuti mapapu ake akanga akuvadzwa zvikuru nekuputa fodya",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bara",
+            "meaning_1":"chisimbi chakaurungana chinobuda mukasha yepfuti chichinobaya wacho anenge achipfurwa",
+            "meaning_2":"kuzvara kunoita munhukadzi anenge ari pamuviri",
+            "example_sentence":"baba vakaisa bara mupfuti yavo apo vaida kupfuura mbavha yakanga yapinda husiku pamba pavo",
+            "similar_words":"mbumburu"
+            
+             
+        },
+        {
+          "word":"mbumburu",
+            "meaning_1":"chisimbi chakaurungana chinobuda mukasha yepfuti chichinobaya wacho anenge achipfurwa",
+            "meaning_2":"",
+            "example_sentence":"baba vakaisa mbumburu mupfuti yavo apo vaida kupfuura mbavha yakanga yapinda husiku pamba pavo",
+            "similar_words":"bara"
+            
+             
+        },
+        {
+          "word":"batsira",
+            "meaning_1":"kuitira mumwe chinhu kana kumupa chinhu kuti abudirire",
+            "meaning_2":"",
+            "example_sentence":"mukomana akabatsira amai vake kuwacha hembe dzakanga dzakasvibva",
+            "similar_words":"yamura,betsera"
+            
+             
+        },
+        {
+          "word":"betsera",
+            "meaning_1":"kuitira mumwe chinhu kana kumupa chinhu kuti abudirire",
+            "meaning_2":"",
+            "example_sentence":"mukomana akabetsera amai vake kuwacha hembe dzakanga dzakasvibva",
+            "similar_words":"yamura,batsira"
+            
+             
+        },
+        {
+          "word":"yamura",
+            "meaning_1":"kuitira mumwe chinhu kana kumupa chinhu kuti abudirire",
+            "meaning_2":"",
+            "example_sentence":"mukomana akayamura amai vake kuwacha hembe dzakanga dzakasvibva",
+            "similar_words":"batsira,betsera"
+            
+             
+        },
+        {
+          "word":"baya",
+            "meaning_1":"kushandisa banga , pfumo kana chimwe chinhu chakapinza kukuvadza",
+            "meaning_2":"",
+            "example_sentence":"mwana akabaya hanzvadzi yake muziso nechigunwe",
+            "similar_words":"dyunga"
+            
+             
+        },
+        {
+          "word":"dyunga",
+            "meaning_1":"kushandisa banga , pfumo kana chimwe chinhu chakapinza kukuvadza",
+            "meaning_2":"",
+            "example_sentence":"mwana akadyunga hanzvadzi yake muziso nechigunwe",
+            "similar_words":"baya"
+            
+             
+        },
+        {
+          "word":"bedura",
+            "meaning_1":"kumedura chingwa kana mbambaira",
+            "meaning_2":"",
+            "example_sentence":"baba vakabedura chingwa nepakati pavakaona vana vachichemera chingwa",
+            "similar_words":"dambura"
+            
+             
+        },
+        {
+          "word":"dambura",
+            "meaning_1":"kumedura chingwa kana mbambaira",
+            "meaning_2":"",
+            "example_sentence":"baba vakadambura chingwa nepakati pavakaona vana vachichemera chingwa",
+            "similar_words":"bedura"
+            
+             
+        },
+        
+        {
+          "word":"bani",
+            "meaning_1":"inzvimbo  ina  majahwi  emvura ",
+            "meaning_2":"",
+            "example_sentence":"vakomana vakapinda nemubani pavaitsvaga mombe dzakanga dzarasika",
+            "similar_words":"bombo"
+            
+             
+        },
+        {
+          "word":"bombo",
+            "meaning_1":"inzvimbo  ina  majahwi  emvura ",
+            "meaning_2":"",
+            "example_sentence":"vakomana vakapinda nemubombo pavaitsvaga mombe dzakanga dzarasika",
+            "similar_words":"bani"
+            
+             
+        },
+        {
+          "word":"bhavhu",
+            "meaning_1":"mudziyo unoshandiswa kugezera mudziyo, mbatya kana kugezera muviri",
+            "meaning_2":"",
+            "example_sentence":"amai vanofarira kugezera mwana mubhavhu",
+            "similar_words":"bhafu,dhishi"
+            
+             
+        },
+        {
+          "word":"bhafu",
+            "meaning_1":"mudziyo unoshandiswa kugezera mudziyo, mbatya kana kugezera muviri",
+            "meaning_2":"",
+            "example_sentence":"amai vanofarira kugezera mwana mubhafu",
+            "similar_words":"bhavhu,dhishi"
+            
+             
+        },
+        {
+          "word":"dhishi",
+            "meaning_1":"mudziyo unoshandiswa kugezera mudziyo, mbatya kana kugezera muviri",
+            "meaning_2":"",
+            "example_sentence":"amai vanofarira kugezera mwana mudhishi",
+            "similar_words":"bhavhu,bhafu"
+            
+             
+        },
+
+        {
+          "word":"bhawa",
+            "meaning_1":"imba inotengeserwa nokumwirwa hwahwa",
+            "meaning_2":"",
+            "example_sentence":"baba vake vakaenda kubhawa vanodzoka vakadhakwa",
+            "similar_words":"bhawa"
+            
+             
+        },
+        {
+          "word":"bhazi",
+            "meaning_1":"zimota zihombe rine zvigaro zvakawanda zvinotakura vanhu vazhinji vari parwendo",
+            "meaning_2":"",
+            "example_sentence":"mwana akenda kumusha nebhazi pakaenda kunoona amai vake vairwara",
+            "similar_words":"dutavanhu"
+            
+             
+        },
+        {
+          "word":"dutavanhu",
+            "meaning_1":"zimota zihombe rine zvigaro zvakawanda zvinotakura vanhu vazhinji vari parwendo",
+            "meaning_2":"",
+            "example_sentence":"mwana akenda kumusha nedutavanhu pakaenda kunoona amai vake vairwara",
+            "similar_words":"bhazi"
+            
+             
+        },
+        {
+          "word":"bhanditi",
+            "meaning_1":" munhu ari kupika jeri, anoshanda pasina mubairo waanowana sechirango chemhosva yaakapara.",
+            "meaning_2":"",
+            "example_sentence":"mabhanditi akapaza jeri guru akatiza ose",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhanga",
+            "meaning_1":"imba  huru inochengeterwa mari",
+            "meaning_2":"",
+            "example_sentence":"vashandi vehurumende vanoisirwa mari dzavo mubhanga kupera kwemwedzi kwega-kwega",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhangu",
+            "meaning_1":"munhu anemusoro mukuru",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo akazvarwa ane musoro bhangu",
+            "similar_words":"bandamba"
+            
+             
+        },
+        {
+          "word":"bandama",
+            "meaning_1":"munhu anemusoro mukuru",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo akazvarwa ane musoro bandama",
+            "similar_words":"bhangu"
+            
+             
+        },
+        {
+          "word":"bhadhara",
+            "meaning_1":"kubvisa mari yomutengo wechinhu kana kuti ubvumidzwe kuita chinhu",
+            "meaning_2":"",
+            "example_sentence":"mai vakabhadhara makumi maviri amadhora pavaitenga mafuta ekubikisa muchitoro",
+            "similar_words":"bhadhara"
+            
+             
+        },
+        {
+          "word":"bhabharasi",
+            "meaning_1":"kurukutika kunofuma kwakaita munhu arara akanyanya kudhakwa nehwahwa ",
+            "meaning_2":"",
+            "example_sentence":"mukoma vakamuka vaine bhabharasi mushure mekunge varara vachinwa doro husiku hwacho",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bereka",
+            "meaning_1":"kutakura mwana kumusana",
+            "meaning_2":"",
+            "example_sentence":"vakenda kumusika vakabereka mwana kumusana",
+            "similar_words":"bhebhura"
+            
+             
+        },
+        {
+          "word":"bhebhura",
+            "meaning_1":"kutakura mwana kumusana",
+            "meaning_2":"",
+            "example_sentence":"vakenda kumusika vakabhebhura mwana kumusana",
+            "similar_words":"bereka"
+            
+             
+        },
+        {
+          "word":"bhenda",
+            "meaning_1":"",
+            "meaning_2":"",
+            "example_sentence":"musikana akashandisa bango rakabhenda kucheka muriwo",
+            "similar_words":"kombama"
+            
+             
+        },
+        {
+          "word":"kombama",
+            "meaning_1":"",
+            "meaning_2":"",
+            "example_sentence":"musikana akashandisa bango rakakombama kucheka muriwo",
+            "similar_words":"bhenda"
+            
+             
+        },
+        {
+          "word":"bhemba",
+            "meaning_1":"zisimbi rakareba rinoshandiswa kutema kana sezvakaita nzimbe kana masora",
+            "meaning_2":"",
+            "example_sentence":"baba vakashandisa bhemba kudimbura mahuswa akanga akurisa kumunda",
+            "similar_words":" bheneri"
+            
+             
+        },
+        {
+          "word":"bheneri",
+            "meaning_1":"zisimbi rakareba rinoshandiswa kutema kana sezvakaita nzimbe kana masora",
+            "meaning_2":"",
+            "example_sentence":"baba vakashandisa bheneri kudimbura mahuswa akanga akurisa kumunda",
+            "similar_words":" bhemba"
+            
+             
+        },
+        {
+          "word":"bhenji",
+            "meaning_1":"chigaro chinogara vanhu vazhinji chinowanzosevenzeswa muzvikoro",
+            "meaning_2":"",
+            "example_sentence":"pachikoro cheNyamana pakabiwa mabhenji aigarirwa nevana vechikoro",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhasera",
+            "meaning_1":"chipo chinopiwa kumunhu anenge aita basa kana kuti anenge atenga zvinhu zvemari zhinji muchitoro",
+            "meaning_2":"",
+            "example_sentence":"pavakaenda kuchitoro kunotenga chikafu chekumba kwavo vakapihwa bhasera yemaputi",
+            "similar_words":"mbasera"
+            
+             
+        },
+        {
+          "word":"mbasera",
+            "meaning_1":"chipo chinopiwa kumunhu anenge aita basa kana kuti anenge atenga zvinhu zvemari zhinji muchitoro",
+            "meaning_2":"",
+            "example_sentence":"pavakaenda kuchitoro kunotenga chikafu chekumba kwavo vakapihwa bhasera yemaputi",
+            "similar_words":"bhasera"
+            
+             
+        },
+        {
+          "word":"bheuka",
+            "meaning_1":"kudonha kunenge kwaita munhu kana chinhu",
+            "meaning_2":"",
+            "example_sentence":"motokari  yakabheuka ikadonhera murwizi",
+            "similar_words":"kupidiguka"
+            
+             
+        },
+        {
+          "word":"pidiguka",
+            "meaning_1":"kudonha kunenge kwaita munhu kana chinhu",
+            "meaning_2":"",
+            "example_sentence":"motokari  yakapidiguka ikadonhera murwizi",
+            "similar_words":"bheuka"
+            
+             
+        },
+        {
+          "word":"bhaibheri",
+            "meaning_1":"bhuku rakanyorwa zvinoera rinotsanangura  zvamwari nezvavanhu mune chitenderano chitsva nechekare",
+            "meaning_2":"",
+            "example_sentence":"vana vesangano vakatengera mufundisi wavo bhaibheri itsva pabhavadhe ravo",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"besu",
+            "meaning_1":"muswe wezvakaita seshiri, hove, rori kana ndege",
+            "meaning_2":"",
+            "example_sentence":"shiri payakarohwa besu nerekeni yakabva yadonha",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhatiri",
+            "meaning_1":"mudziyo unobata nekuchengeta moto wemagetsi unozoshandiswa pazvinhu zvakaita semaredhiyo kana mota kana mimwewo midziyo inoda moto",
+            "meaning_2":"",
+            "example_sentence":"bhatiri remotokari rakanga rakunetsa zvokuti motokari yavo yakanga yakufamba ichidzima ",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhakiti",
+            "meaning_1":"mudziyo wekucheresa mvura ",
+            "meaning_2":"",
+            "example_sentence":"kumba kwavo vane mabhakiti maviri ekucherera mvura yekunwa",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhurauzi",
+            "meaning_1":"hembe yechikadzi inogumira muchiuno inopfekwa nesiketi",
+            "meaning_2":"",
+            "example_sentence":"amai vakaenda kuchikoro kwemwana wavo kunoona mabhuku emwana",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bibiritsa",
+            "meaning_1":"kukungurutsa",
+            "meaning_2":"",
+            "example_sentence":"mukomana akabibiritsa dombo rakanga riripamusuwo pemba yavo",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhodho",
+            "meaning_1":"poto huru yesimbi ina makumbo matatu",
+            "meaning_2":"",
+            "example_sentence":"ambuya vanofarira kubikira sadza mubhodho",
+            "similar_words":""
+     
+        },
+        {
+          "word":"bhuru",
+            "meaning_1":"mombe nzombe isina kuchekwa",
+            "meaning_2":"",
+            "example_sentence":"mukoma vakatungiwa nebhuru rekwababamukuru",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"baramhanya",
+            "meaning_1":"kumhanya kumativi ose kunoita vanhu kana vavhundutswauyu kwake uyu kwake",
+            "meaning_2":"",
+            "example_sentence":"pavakanzwa kurira kwepfuti pakaitwa baramhanya ",
+            "similar_words":"chimwandamwanda"
+            
+             
+        },
+        {
+          "word":"chimwandamwanda",
+            "meaning_1":"kumhanya kumativi ose kunoita vanhu kana vavhundutswauyu kwake uyu kwake",
+            "meaning_2":"",
+            "example_sentence":"pavakanzwa kurira kwepfuti pakaitwa chimwandamwanda ",
+            "similar_words":"baramhanya"
+            
+             
+        },
+        {
+          "word":"bhinhi",
+            "meaning_1":" igaba kana mumwewo mudziyo unoiswa marara.",
+            "meaning_2":"",
+            "example_sentence":"pakapedza kutsvaira mumba akarasa marara mubhinhi",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhora",
+            "meaning_1":"mutambo unotambwa nemakumbo",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo mukomana akaenda kunotambira bhora kunze kwenyika ",
+            "similar_words":""
+            
+             
+        },
+        {
+             "word":"bhinya",
+            "meaning_1":"munhu anoita zvekupamba  kana kukuvadza  vamwe",
+            "meaning_2":"munhu anobata mumwe chibharo achimumanikidza kurara naye iye asingadi",
+            "example_sentence":"kunzvimbo yavanogara kune mabhinya arikugarira vana munzira",
+            "similar_words":"gandanga,nyamusenga"
+            
+             
+        },
+        {
+          "word":"gandanga",
+            "meaning_1":"munhu anoita zvekupamba  kana kukuvadza  vamwe",
+            "meaning_2":"",
+            "example_sentence":"kunzvimbo yavanogara kune magandanga arikugarira vana munzira",
+            "similar_words":"bhinya"
+            
+             
+        },
+        
+        {
+          "word":"bhinzi",
+            "meaning_1":"mbeu inoitwa mutakura kana kudyiswa sadza",
+            "meaning_2":"",
+            "example_sentence":"kumba kwavo kunobikwa bhinzi nesadza kaviri pavhiki",
+            "similar_words":"bhinzi"
+            
+             
+        },
+        {
+          "word":"bhiridha",
+            "meaning_1":"munhu anoita basa rekuvaka dzimba.",
+            "meaning_2":" kupiringana kunoita mombe dzinenge dzakasungwa pajoko, imwe yakatarisa shure imwe mberi, asi dziri pajoki rimwe chete.",
+            "example_sentence":"amai vakatuma mwana wavo kubikira mabhiridha sadza avo vaishanda pamba pavo",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhiriji",
+            "meaning_1":"zambuko riri pamusoro pemvura rakavakwa rakachinjika rwizirokuyambukisa",
+            "meaning_2":"",
+            "example_sentence":"vana vakatadza kuyambuka bhiriji rakanga rakazara mvura pavaibva kuchikoro",
+            "similar_words":""
+            
+             
+        },
+        
+        {
+          "word": "bhoso",
+            "meaning_1":"chinhu chinofuridzwa kuti chirire",
+            "meaning_2":"",
+            "example_sentence":"kuchechi kwavo vanoridza mabhoso pavanenge vachiimba",
+            "similar_words":"bhosvo"
+            
+             
+        },
+        {
+          "word": "bhosva",
+            "meaning_1":"chinhu chinofuridzwa kuti chirire",
+            "meaning_2":"",
+            "example_sentence":"kuchechi kwavo vanoridza mabhosvo pavanenge vachiimba",
+            "similar_words":"bhoso"
+            
+             
+        },
+        {
+          "word":"bhucha",
+            "meaning_1":"imba inotengeserwa nyama",
+            "meaning_2":"",
+            "example_sentence":"amai vakatuma mwana kuenda kunotenga usavi waida kuzodyiwa manheru kubhucha",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word": "bhudhi",
+            "meaning_1":"hanzvadzi komana kana shamwari yechirume yomunhukadzi",
+            "meaning_2":"",
+            "example_sentence":"bhudhi vake vakaenda kumhiri kwemakungwa nebasa",
+            "similar_words":"hanzvadzi"
+          
+             
+        },
+        {
+          "word": "hanzvadzi",
+            "meaning_1":"hanzvadzi komana kana shamwari yechirume yomunhukadzi",
+            "meaning_2":"",
+            "example_sentence":"hanzvadzi yake yakaenda kumhiri kwemakungwa nebasa",
+            "similar_words":"bhudi"
+            
+             
+        },
+        {
+          "word":"bhitiruti",
+            "meaning_1":"mbeu ine mudzi mutsvuku yomugadheni yakafanana ne karotsi",
+            "meaning_2":"",
+            "example_sentence":"musikana akabika chikafu chakanga chinebhitiruti",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bhiya",
+            "meaning_1":"hwahwa hwechirungu",
+            "meaning_2":"",
+            "example_sentence":"baba pakavaenda kubhawa neshamwari dzavo vakadzoka vakabata mabhiya maviri",
+            "similar_words":"bhiya"
+            
+             
+        },
+        {
+          "word":"bhizautare",
+            "meaning_1":"mudziyo unoshandiswa kufambiswa unemavhiri maviri",
+            "meaning_2":"",
+            "example_sentence":"mwana paakapasa muchikoro akatengerwa bhasikoro nevabereki vake semubairo",
+            "similar_words":"bhasikoro"
+            
+             
+        },
+        {
+          "word":"bhasikoro",
+            "meaning_1":"mudziyo unoshandiswa kufambiswa unemavhiri maviri",
+            "meaning_2":"",
+            "example_sentence":"mwana paakapasa muchikoro akatengerwa bhasikoro nevabereki vake semubairo",
+            "similar_words":"bhizautare"
+          
+             
+        },
+        {
+          "word":"bhiza",
+            "meaning_1":"mhuka ina makumbo mana nezenze guru nomuswe une pfunha ndefuinotasviwa nokumhaniswa pamijahwo",
+            "meaning_2":"",
+            "example_sentence":"pachikoro cheChaedza pakauya mabhiza musi wavakavhura chikoro",
+            "similar_words":"hachi"
+            
+             
+        },
+        {
+          "word":"hachi",
+            "meaning_1":"mhuka ina makumbo mana nezenze guru nomuswe une pfunha ndefuinotasviwa nokumhaniswa pamijahwo",
+            "meaning_2":"",
+            "example_sentence":"pachikoro cheChaedza pakauya mahachi musi wavakavhura chikoro",
+            "similar_words":"bhiza"
+            
+             
+        },
+        {
+          
+          "word":"bhutsu",
+            "meaning_1":"chipfeko chomutsoka chinogadzirwa negandakana mupirakana dehwe",
+            "meaning_2":"",
+            "example_sentence":"baba vaienda kubasa nebhutsu dzakabvaruka kubasa pavakanga vasati vahora mari yekupera kwemwedzi",
+            "similar_words":"shangu"
+            
+             
+        },
+        {
+          
+          "word":"shangu",
+            "meaning_1":"chipfeko chomutsoka chinogadzirwa negandakana mupirakana dehwe",
+            "meaning_2":"",
+            "example_sentence":"baba vaienda kubasa neshangu dzakabvaruka kubasa pavakanga vasati vahora mari yekupera kwemwedzi",
+            "similar_words":"bhutsu"
+            
+             
+        },
+        {
+          "word":"bonga",
+            "meaning_1":"katsi yomusango",
+            "meaning_2":"",
+            "example_sentence":"vana vakasangana nebonga musango pavaifamba kuenda kuchikoro",
+            "similar_words":"nhiriri"
+            
+             
+        },
+        {
+          "word":"nhiriri",
+            "meaning_1":"katsi yomusango",
+            "meaning_2":"",
+            "example_sentence":"vana vakasangana nenhiriri musango pavaifamba kuenda kuchikoro",
+            "similar_words":"bonga"
+             
+        },
+        {
+          "word":"bongozozo",
+            "meaning_1":"kuitika kweruzha panenge panetsana vanhu",
+            "meaning_2":"",
+            "example_sentence":"vanhu vakanzwa bongozozo mumba mababa namai Kamuti apo amai vairohwa nemurume wavo",
+            "similar_words":"zhowezhowe,mheremhere"
+            
+             
+        },
+        {
+          "word":"zhowezhowe",
+            "meaning_1":"kuitika kwezhowezhowe panenge panetsana vanhu",
+            "meaning_2":"",
+            "example_sentence":"vanhu vakanzwa zhowezhowe mumba mababa namai Kamuti apo amai vairohwa nemurume wavo", 
+            "similar_words":"bongozozo,mheremhere"
+             
+        },
+        {
+          "word":"mheremhere",
+            "meaning_1":"kuitika kwezhowezhowe panenge panetsana vanhu",
+            "meaning_2":"",
+            "example_sentence":"vanhu vakanzwa mheremhere mumba mababa namai Kamuti apo amai vairohwa nemurume wavo",
+            "similar_words":"zhowezhowe,bongozozo"
+            
+             
+        },
+        {
+          "word":"buda",
+            "meaning_1":"kubva mukati mechimwe chinhu sokubva mumba",
+            "meaning_2":"",
+            "example_sentence":"mbavha yakabuda mumba ichimhanya payakanzwa vanhu vachitaura mumba",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"bofu ",
+            "meaning_1":"munhu asingaoni kana mhuka isingaoni",
+            "meaning_2":"",
+            "example_sentence":"Chipo paifamba akasangana nebofu raikumbira kuyambutswa mugwagwa akaribatsira",
+            "similar_words":""
+            
+             
+        },
+        {
+          "word":"boira",
+            "meaning_1":"kutsinzinya kunoita maziso nokusvinura pakarepo",
+            "meaning_2":"",
+            "example_sentence":"Takunda pakanzwa kutaura kwababa vake pavakabva kubasa akaboira maziso achida kuti vazvione kuti ainge asati akotsira",
+            "similar_words":"bwaira"
+            
+             
+        },
+        {
+          "word":"bwaira",
+            "meaning_1":"kutsinzinya kunoita maziso nokusvinura pakarepo",
+            "meaning_2":"",
+            "example_sentence":"Takunda pakanzwa kutaura kwababa vake pavakabva kubasa akabwaira maziso achida kuti vazvione kuti ainge asati akotsira",
+            "similar_words":"boira"
+            
+             
+        },
+        {
+          "word":"bonde",
+            "meaning_1":" tsanga dzakatsemurwa dzakabatanidzwa nemikosi dzinogadzirisiwa pokurarira",
+            "meaning_2":"",
+            "example_sentence":"amai vakatora bonde vakawaridzira vana kuti varare pasi",
+            "similar_words":"rukukwe,mhasa"
+            
+             
+        },
+        {
+          "word":"rukukwe",
+            "meaning_1":" tsanga dzakatsemurwa dzakabatanidzwa nemikosi dzinogadzirisiwa pokurarira",
+            "meaning_2":"",
+            "example_sentence":"amai vakatora rukukwe vakawaridzira vana kuti varare pasi",
+            "similar_words":"bonde,mhasa"
+            
+             
+        },
+        {
+          "word":"mhasa",
+            "meaning_1":" tsanga dzakatsemurwa dzakabatanidzwa nemikosi dzinogadzirisiwa pokurarira",
+            "meaning_2":"",
+            "example_sentence":"amai vakatora mhasa vakawaridzira vana kuti varare pasi",
+            "similar_words":"rukukwe,bonde"
+        
+             
+        },
+        {
+          "word":"buruuru",
+            "meaning_1":"mwana wedafi kana achiri mudiki aine musoro mukuru nemuswe",
+            "meaning_2":"",
+            "example_sentence":"musikana pakaenda kunochera mvura kurwizi akasangana nekaburuuru akanga kakarara munyazi merwizi",
+            "similar_words":"zunguzurwa"
+          
+             
+        },
+        {
+          "word":"zunguzurwa",
+            "meaning_1":"mwana wedafi kana achiri mudiki aine musoro mukuru nemuswe",
+            "meaning_2":"",
+            "example_sentence":"musikana pakaenda kunochera mvura kurwizi akasangana nekazunguzurwa akanga kakarara munyazi merwizi",
+            "similar_words":"buruuru"
+            
+             
+        },
+        {
+          "word":"bveni",
+            "meaning_1":"mhuka yomusango inoita kunge munhu",
+            "meaning_2":"",
+            "example_sentence":"pavakakirwa mugomo vakasanga nebveni rakanga rakafa",
+            "similar_words":"diro,dede,gudo"
+            
+             
+        },
+        {
+          "word":"dede",
+            "meaning_1":"mhuka yomusango inoita kunge munhu",
+            "meaning_2":"",
+            "example_sentence":"pavakakirwa mugomo vakasanga nedede rakanga rakafa",
+            "similar_words":"diro,gudo,bveni"
+            
+             
+        },
+        {
+          "word":"gudo",
+            "meaning_1":"mhuka yomusango inoita kunge munhu",
+            "meaning_2":"",
+            "example_sentence":"pavakakirwa mugomo vakasanga negudo rakanga rakafa",
+            "similar_words":"diro,dede,bveni"
+
+             
+        },
+        {
+          "word":"diro",
+            "meaning_1":"mhuka yomusango inoita kunge munhu",
+            "meaning_2":"",
+            "example_sentence":"pavakakirwa mugomo vakasanga nediro rakanga rakafa",
+            "similar_words":"gudo,dede,bveni"
+            
+             
+        },
+        {
+          "word": "chabudza",
+          "meaning_1": "kufamba makumbo achitsika mvura ichibva yatsatika",
+          "meaning_2": "",
+          "example_sentence": "mombe dzinochabudza mvura kana dzasvika parwizi",
+          "similar_words": "chabutsa"
+        },
+        {
+          "word": "chabutsa",
+          "meaning_1": "kufamba makumbo achitsika mvura ichibva yatsatika",
+          "meaning_2": "",
+          "example_sentence": "mombe dzinochabutsa mwura kana dzasvika parwizi",
+          "similar_words": "chabutsa"
+        },
+        {
+          "word": "chachura",
+          "meaning_1": "kutorwa kwezviri muhari kana mupoto iri pamoto",
+          "meaning_2": "",
+          "example_sentence": " akachachura nyama yaive mupoto",
+          "similar_words": ""
+        },
+        {
+          "word": "chamhembe",
+          "meaning_1": "kudivi riri kwakapesana nokumaodzanyemba, uye kunenge kuri kurudyi kana munhu akatarisa kumabvazuva.            ",
+          "meaning_2": "",
+          "example_sentence": "mhepo yakabva nechekuchamhembe",
+          "similar_words": ""
+        },
+        {
+          "word": "chamudzungururu",
+          "meaning_1": "kutenderera kunoita pwere dzichitamba kuti dzive nedzungu",
+          "meaning_2": "",
+          "example_sentence": "mwana akaita chamudzungururu paaitamba nevamwe",
+          "similar_words": ""
+        },
+        {
+          "word": "chamunyurududu",
+          "meaning_1": "kutuhwina muviri wose uri mumvura zvose nemusoro",
+          "meaning_2": "",
+          "example_sentence": "akarova chamunyurududu kusvika ayambukira kumhiri kwerwizi",
+          "similar_words": ""
+        },
+        {
+          "word": "chamupupuri",
+          "meaning_1": "mhepo inovhuvhuta nokutenderera nesimba ",
+          "meaning_2": "",
+          "example_sentence": "chamupupuri chakatakura mazenge emba yedu",
+          "similar_words": ""
+        },
+        {
+          "word": "chakata",
+          "meaning_1": "muchero une tsongori imwe chete unotsvuka kana waibva",
+          "meaning_2": "",
+          "example_sentence": "patakaenda kunotsvaka huni takawana chakata dzakabereka zvisingaite",
+          "similar_words": "hacha"
+        },
+        {
+          "word": "hacha",
+          "meaning_1": "muchero une tsongori imwe chete unotsvuka kana waibva",
+          "meaning_2": "",
+          "example_sentence": "patakaenda kunotsvaka huni takawana hacha dzakabereka zvisingaite",
+          "similar_words": "chakata"
+        },
+        {
+          "word": "chakwaira",
+          "meaning_1": "kufamba napanemvura",
+          "meaning_2": "",
+          "example_sentence": "akachakwaira achitinha mombe",
+          "similar_words": "chakwatira"
+        },
+        {
+          "word": "chakwatira",
+          "meaning_1": "kufamba napanemvura",
+          "meaning_2": "",
+          "example_sentence": "akachakwatira achitinha mombe",
+          "similar_words": "chakwaira"
+        },
+        {
+          "word": "chando",
+          "meaning_1": "kutonhora kunoita kunze",
+          "meaning_2": "",
+          "example_sentence": "nhasi ndikunzwa chando",
+          "similar_words": "kutonhora"
+        },
+        {
+          "word": "kutonhora",
+          "meaning_1": "kutonhora kunoita kunze",
+          "meaning_2": "",
+          "example_sentence": "nhasi ndikurikutonhora",
+          "similar_words": "chando"
+        },
+        {
+          "word": "chari",
+          "meaning_1": "mucheka wakarukwa neshinda dzakakora, unoshandiswa kuputira vana vadiki kuti vasapindwa nechando, kana kufukidza mapendekete emadzimai kana kumonera muchiuno.            ",
+          "meaning_2": "Kuti chari kupfuura nepamusoro pechinhu uchiita zvokuuruka",
+          "example_sentence": "nditambidzewo chari ndibereke mwana",
+          "similar_words": ""
+        },
+        {
+          "word": "changamire",
+          "meaning_1": " Inzwi rokuremekedza zvikuru mambo kana ishe wechirume. ",
+          "meaning_2": "",
+          "example_sentence": "changamire vakapa mutongo wemakore matatu ",
+          "similar_words": "mhanduwe"
+        },
+        {
+          "word": "mhanduwe",
+          "meaning_1": " Inzwi rokuremekedza zvikuru mambo kana ishe wechirume. ",
+          "meaning_2": "",
+          "example_sentence": "mhanduwe vakapa mutongo wemakore matatu ",
+          "similar_words": "changamire"
+        },
+        {
+          "word": "chata",
+          "meaning_1": "kubatanidzwa muchechi kuva murume nomukadzi",
+          "meaning_2": "",
+          "example_sentence": "vakachata nezuro",
+          "similar_words": "kubatanidzwa"
+        },
+        {
+          "word": "batanidzwa",
+          "meaning_1": "kubatanidzwa muchechi kuva murume nomukadzi",
+          "meaning_2": "",
+          "example_sentence": "vakabatanidzwa nezuro",
+          "similar_words": "chata"
+        },
+        {
+          "word": "chaya",
+          "meaning_1": "kurova",
+          "meaning_2": "",
+          "example_sentence": "akachaya mwana akachema",
+          "similar_words": "rova"
+        },
+        {
+          "word": "rova",
+          "meaning_1": "kurova",
+          "meaning_2": "",
+          "example_sentence": "akarova mwana akachema",
+          "similar_words": "chaya"
+        },
+        {
+          "word": "chayisa",
+          "meaning_1": "kupedza basa",
+          "meaning_2": "",
+          "example_sentence": "anochayisa nguva dzaenda",
+          "similar_words": "kupedza"
+        },
+        {
+          "word": "kupedza",
+          "meaning_1": "kuchayisa basa",
+          "meaning_2": "",
+          "example_sentence": "anopedza nguva dzaenda",
+         "similar_words": "kuchayisa"
+        },
+        {
+          "word": "chanza",
+          "meaning_1": " mukati menhengo yoruoko munoshandiswa kubata zvinhu.",
+          "meaning_2": "",
+          "example_sentence": "akakuvara pachanza chaipo",
+          "similar_words": ""
+        },
+        {
+          "word": "chanzi",
+          "meaning_1": " mukana wokuita chimwe chinhu unenge usiri nyore kuwana. ",
+          "meaning_2": " imhanza kana rombo rakanaka rinowira munhu kashoma muupenyu. ",
+          "example_sentence": "Ndakatoti ndawana chanzi yokuenderera mberi nechikoro, pandakawana aindibhadharira mari mushure mokunge baba vangu vashaya. Ukawana chanzi yokuita mari unenge wava mambo pasi pano.",
+          "similar_words": "mhanza, mukana"
+        },
+        {
+          "word": "mhanza",
+          "meaning_1": " mukana wokuita chimwe chinhu unenge usiri nyore kuwana. ",
+          "meaning_2": " imhanza kana rombo rakanaka rinowira munhu kashoma muupenyu. ",
+          "example_sentence": "Ndakatoti ndawana mhanza yokuenderera mberi nechikoro, pandakawana aindibhadharira mari mushure mokunge baba vangu vashaya. Ukawana chanzi yokuita mari unenge wava mambo pasi pano.",
+          "similar_words": "chanzi, mukana"
+        },
+        {
+          "word": "mukana",
+          "meaning_1": " mukana wokuita chimwe chinhu unenge usiri nyore kuwana. ",
+          "meaning_2": " imhanza kana rombo rakanaka rinowira munhu kashoma muupenyu. ",
+          "example_sentence": "Ndakatoti ndawana mukana yokuenderera mberi nechikoro, pandakawana aindibhadharira mari mushure mokunge baba vangu vashaya. Ukawana chanzi yokuita mari unenge wava mambo pasi pano.",
+          "similar_words": "mhanza, chanzi"
+        },
+        {
+          "word": "checheni",
+          "meaning_1": "muchero womuti womuchecheni unotsvukuruka pakuibva. ",
+          "meaning_2": "",
+          "example_sentence": "tadya checheni pataenda kunotsvaga huni",
+          "similar_words": "chachani"
+        },
+        {
+          "word": "chachani",
+          "meaning_1": "muchero womuti womuchecheni unotsvukuruka pakuibva. ",
+          "meaning_2": "",
+          "example_sentence": "tadya chachani pataenda kunotsvaga huni",
+          "similar_words": "checheni"
+        },
+        {
+          "word": "chechetere",
+          "meaning_1": "kuenzanirana kwezvinhu paurefu hwazvo.        ",
+          "meaning_2": "",
+          "example_sentence": " Misoro yavanhu yakati chechetere mubhazi. ",
+          "similar_words": "kuzara"
+        },
+        {
+          "word": "kuzara",
+          "meaning_1": "kuenzanirana kwezvinhu paurefu hwazvo.        ",
+          "meaning_2": "",
+          "example_sentence": " Misoro yavanhu yakati yakazara mubhazi. ",
+          "similar_words": "chechetere"
+        },
+        {
+          "word": "chapungu",
+          "meaning_1": "ishiri huru inodya nyoka notumwe tupuka",
+          "meaning_2": "",
+          "example_sentence": "chapungu hachidonedze munhenga",
+          "similar_words": "rukodzi"
+        },
+        {
+          "word": "rukodzi",
+          "meaning_1": "ishiri huru inodya nyoka notumwe tupuka",
+          "meaning_2": "",
+          "example_sentence": "rukodzi hachidonedze munhenga",
+          "similar_words": "chapungu"
+        },
+        {
+          "word": "chara",
+          "meaning_1": "inzara yomunhu iri pamunwe mukuru",
+          "meaning_2": "",
+          "example_sentence": "akatsvanywa chara chake nebhara",
+          "similar_words": "munwe"
+        },
+        {
+          "word": "munwe",
+          "meaning_1": "inzara yomunhu iri pamunwe mukuru",
+          "meaning_2": "",
+          "example_sentence": "akatsvanywa munwe wake nebhara",
+          "similar_words": "chara"
+        },
+        {
+          "word": "chechi",
+          "meaning_1": "Imba inoshumirwa Mwari navaKirisitu",
+          "meaning_2": "",
+          "example_sentence": "anopinda chechi inopfeka nguwo refu",
+          "similar_words": "kereke,sangano"
+        },
+        {
+          "word": "kereke",
+          "meaning_1": "Imba inoshumirwa Mwari navaKirisitu",
+          "meaning_2": "",
+          "example_sentence": "anopinda kereke inopfeka nguwo refu",
+          "similar_words": "chechi,sangano"
+        },
+        {
+          "word": "sangano",
+          "meaning_1": "Imba inoshumirwa Mwari navaKirisitu",
+          "meaning_2": "",
+          "example_sentence": "anopinda sangano inopfeka nguwo refu",
+          "similar_words": "kereke,chechi"
+        },
+        {
+          "word": "cheka",
+          "meaning_1": "kudimbura chinhu",
+          "meaning_2": "",
+          "example_sentence": "ndakazvicheka chigunwe nebanga",
+          "similar_words": "dimbura"
+        },
+        {
+          "word": "dimbura",
+          "meaning_1": "kucheka chinhu",
+          "meaning_2": "",
+          "example_sentence": "ndakadimbura chigunwe nebanga",
+          "similar_words": "cheka"
+        },
+        {
+          "word": "chema",
+          "meaning_1": "chipo chinobviswa nemunhu parufu.",
+          "meaning_2": "",
+          "example_sentence": "Patakaenda kurufu tose takabvisa chema yepondo.",
+          "similar_words": ""
+        },
+        {
+          "word": "chembere",
+          "meaning_1": "Chembere munhu ane muviri woratidza kuti ararama kwenguva refu. ",
+          "meaning_2": "",
+          "example_sentence": "Chembere iyo haigoni kuita basa rinorema. ",
+          "similar_words": "mukweguru , mutana "
+        },
+        {
+          "word": "mukweguru",
+          "meaning_1": "Chembere munhu ane muviri woratidza kuti ararama kwenguva refu. ",
+          "meaning_2": "",
+          "example_sentence": "mukweguru uyo haigoni kuita basa rinorema. ",
+          "similar_words": "chembere , mutana "
+        },
+        {
+          "word": "mutana",
+          "meaning_1": "Chembere munhu ane muviri woratidza kuti ararama kwenguva refu. ",
+          "meaning_2": "",
+          "example_sentence": "mutana uyo haigoni kuita basa rinorema. ",
+          "similar_words": "mukweguru , chembere "
+        },
+        {
+          "word": "chenama",
+          "meaning_1": "kupopotera zvinhu zvisina basa kunyanya  ",
+          "meaning_2": "",
+          "example_sentence": "mukadzi uyu anochenama",
+          "similar_words": ""
+        },
+        
+        {
+          "word": "chenjera",
+          "meaning_1": "kungwara",
+          "meaning_2": "",
+          "example_sentence": "famba wakachenjera",
+          "similar_words": "ngwara,svinura"
+        },
+        {
+          "word": "ngwara",
+          "meaning_1": "kungwara",
+          "meaning_2": "",
+          "example_sentence": "famba wakangwara",
+          "similar_words": "chenjera,svinura"
+        },
+        {
+          "word": "svinura",
+          "meaning_1": "kungwara",
+          "meaning_2": "",
+          "example_sentence": "famba wakasvinura",
+          "similar_words": "ngwara,chenjera"
+        },
+        {
+          "word": "cheni",
+          "meaning_1": "muronga wezvisimbi zvakakochekerana zvakabatanidzwa kuita rundaza.",
+          "meaning_2": "",
+          "example_sentence": "Cheni yebhasikiro yadambuka.",
+          "similar_words": "ngetani"
+        },
+        {
+          "word": "ngetani",
+          "meaning_1": "muronga wezvisimbi zvakakochekerana zvakabatanidzwa kuita rundaza.",
+          "meaning_2": "",
+          "example_sentence": "Mbavha yakaiswa ngetani mushure mekubatwa.",
+          "similar_words": "cheni"
+        },
+        {
+          "word": "cheneruka",
+          "meaning_1": "kusanduka kweruvara rwejira",
+          "meaning_2": "",
+          "example_sentence": "batye rake rakacheneruka nezuva",
+          "similar_words": "wumbuka"
+        },
+        {
+          "word": "wumbuka",
+          "meaning_1": "kusanduka kweruvara rwejira",
+          "meaning_2": "",
+          "example_sentence": "batye rake rakawumbuka nezuva",
+          "similar_words": "chenuruka"
+        },
+        {
+          "word": "chenura",
+          "meaning_1": "kutaurira munhu kuti haana mhosva yaakanga achifungirwa",
+          "meaning_2": "idoro rinobikirwa mufi pasati pabikwa rekurova guva.",
+          "example_sentence": "ndini ndakazomuchenura panyaya yaipomerwa",
+          "similar_words": "pupurira"
+        },
+        {
+          "word": "pupurira",
+          "meaning_1": "kutaurira munhu kuti haana mhosva yaakanga achifungirwa",
+          "meaning_2": "idoro rinobikirwa mufi pasati pabikwa rekurova guva.",
+          "example_sentence": "ndini ndakazomupupurira panyaya yaipomerwa",
+          "similar_words": "chenura"
+        },
+        {
+          "word": "chibage",
+          "meaning_1": "imbeu inorimwa ichiita vana vane tsanga dzinogaiwa kuita upfu hunobikisa sadza.",
+          "meaning_2": "",
+          "example_sentence": "Baba vakarima chibage choga",
+          "similar_words": "mabarwe,magwere,chibere,"
+        },
+        {
+          "word": "mabarwe",
+          "meaning_1": "imbeu inorimwa ichiita vana vane tsanga dzinogaiwa kuita upfu hunobikisa sadza.",
+          "meaning_2": "",
+          "example_sentence": "Baba vakarima mabarwe oga",
+          "similar_words": "chigabe,magwere,chibere,"
+        },
+        {
+          "word": "magwere",
+          "meaning_1": "imbeu inorimwa ichiita vana vane tsanga dzinogaiwa kuita upfu hunobikisa sadza.",
+          "meaning_2": "",
+          "example_sentence": "Baba vakarima magwere oga",
+          "similar_words": "mabarwe,chibage,chibere,"
+        },
+        {
+          "word": "chibere",
+          "meaning_1": "imbeu inorimwa ichiita vana vane tsanga dzinogaiwa kuita upfu hunobikisa sadza.",
+          "meaning_2": "",
+          "example_sentence": "Baba vakarima chibere choga",
+          "similar_words": "mabarwe,magwere,chibage,"
+        },
+        {
+          "word": "chera",
+          "meaning_1": "kutimba uchibvisa ivhu",
+          "meaning_2": "kuteka mvura kubva mutsime",
+          "example_sentence": "aenda kunochera mbeva",
+          "similar_words": "timba"
+        },
+        {
+          "word": "timba",
+          "meaning_1": "kuchera uchibvisa ivhu",
+          "meaning_2": "",
+          "example_sentence": "aenda kunotimba mumunda",
+          "similar_words": "timba"
+        },
+        {
+          "word": "chibayiro",
+          "meaning_1": "Ichi chipfuyo chinourayiwa pakupira Mwari. Vanhu vakawanda vomuBhaibheri vaishandisa makwai sezvibairo",
+          "meaning_2": "yi inzvimbo inoshandiswa kuurayira mhuka, zvakaita sen'ombe",
+          "example_sentence": "akaunza chibayiro semuripo",
+          "similar_words": "chipiriso"
+        },
+        {
+          "word": "chipiriso",
+          "meaning_1": "Ichi chipfuyo chinourayiwa pakupira Mwari. Vanhu vakawanda vomuBhaibheri vaishandisa makwai sezvibairo",
+          "meaning_2": "yi inzvimbo inoshandiswa kuurayira mhuka, zvakaita sen'ombe",
+          "example_sentence": "akaunza chipiriso semuripo",
+         "similar_words": "chibayiro"
+        },
+        {
+          "word": "chibodzwa",
+          "meaning_1": "muyero umwe chete unopiwa pamitambo yekasyina siyana",
+          "meaning_2": "",
+          "example_sentence": "varohwa nechibodzwa chimwe chete",
+          "similar_words": ""
+        },
+       
+        {
+          "word": "chidhoma",
+           "meaning_1": "mweya womunhu akafa unoshandiswa nemuroyi kuroya vapenyu kuti varware kana kufa. ",
+          "meaning_2": "",
+          "example_sentence": "akarohwa nezvidhoma nezuro manheru akatomukira kumaporofita chaiko",
+          "similar_words": "chidhokwani"
+        },
+        {
+          "word": "chidhokwani",
+          "meaning_1": "mweya womunhu akafa unoshandiswa nemuroyi kuroya vapenyu kuti varware kana kufa. ",
+          "meaning_2": "",
+          "example_sentence": "akarohwa nechidhokwani nezuro manheru akatomukira kumaporofita chaiko",
+          "similar_words": "chidhoma"
+        },
+        {
+          "word": "chidimburiso",
+          "meaning_1": "Uyu mudziyo unosevenzeswa kucheka nokupfupisa zvinhu zvinenge zvakarebesa",
+          "meaning_2": "",
+          "example_sentence": "nyatsochekerera maruva ayo nechidamburiso",
+          "similar_words": "banga, pinjisi, demo, chigero"
+        },
+        {
+          "word": "banga",
+          "meaning_1": "Uyu mudziyo unosevenzeswa kucheka nokupfupisa zvinhu zvinenge zvakarebesa",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akacheka chingwa nebanga",
+          "similar_words": "chidamburiso, pinjisi, demo, chigero"
+        },
+        {
+          "word": "pinjisi",
+          "meaning_1": "Uyu mudziyo unosevenzeswa kucheka nokupfupisa zvinhu zvinenge zvakarebesa",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akacheka waya nepinjisi",
+          "similar_words": "banga, chidamburiso, demo, chigero"
+        },
+        {
+          "word": "demo",
+          "meaning_1": "Uyu mudziyo unosevenzeswa kucheka nokupfupisa zvinhu zvinenge zvakarebesa",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akacheka huni nedemo",
+          "similar_words": "banga, pinjisi, chidamburiso, chigero"
+        },
+        {
+          "word": "chigero",
+          "meaning_1": "Uyu mudziyo unosevenzeswa kucheka nokupfupisa zvinhu zvinenge zvakarebesa",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akacheka bepa rake nechigero",
+          "similar_words": "banga, pinjisi, demo, chidamburiso"
+        },
+        {
+          "word": "chidembo",
+          "meaning_1": "imhuka ine mweya unonhuhwa zvikuru",
+          "meaning_2": "",
+          "example_sentence": "pane munhu arikunhuwa sechidembo",
+          "similar_words": "chitsero"
+        },
+        {
+          "word": "chitsero",
+          "meaning_1": "imhuka ine mweya unonhuhwa zvikuru",
+          "meaning_2": "",
+          "example_sentence": "pane munhu arikunhuwa sechidembo",
+          "similar_words": "chidembo"
+        },
+        {
+          "word": "chidhakwa",
+          "meaning_1": "munhu anomwa hwahwa zakanyanyisa",
+          "meaning_2": "",
+          "example_sentence": "ndasangana nechidhakwa chichidzedzeerka",
+          "similar_words": "muraradzi"
+        },
+        {
+          "word": "muraradzi",
+          "meaning_1": "munhu anomwa hwahwa zakanyanyisa",
+          "meaning_2": "",
+          "example_sentence": "ndasangana nemuraradzi achichidzedzeerka",
+          "similar_words": "chidhakwa"
+        },
+        {
+          "word": "chibhende",
+          "meaning_1": "mutauriro wokureva munhu iye aripo asinganzwisise zviri kutaurwa",
+          "meaning_2": "",
+          "example_sentence": "vana avo vanga vachitireva nechibhende vachifunga kuti hatisikuzvinzwa",
+          "similar_words": ""
+        },
+        {
+          "word": "chete",
+          "meaning_1": "izwi chinoreva chinhu chimwe",
+          "meaning_2": "",
+          "example_sentence": "ndine mwana mumwe chete",
+          "similar_words": "bedzi"
+        },
+        {
+          "word": "bedzi",
+          "meaning_1": "izwi chinoreva chinhu chimwe",
+          "meaning_2": "",
+          "example_sentence": "ndine mwana mumwe bedzi",
+          "similar_words": "chete"
+        },
+        {
+          "word": "chibhunu",
+          "meaning_1": "mutauro  kana maitiro amabhunu",
+          "meaning_2": "",
+          "example_sentence": "baba vangu pavakabva kumhiri kwamakungwa vainge votaura chibhunu chega chega",
+          "similar_words": "chirungu"
+        },
+        {
+          "word": "chibhunu",
+          "meaning_1": "mutauro  kana maitiro amabhunu",
+          "meaning_2": "",
+          "example_sentence": "baba vangu pavakabva kumhiri kwamakungwa vainge votaura chirungu chega chega",
+          "similar_words": "chibhunu"
+        },
+        {
+          "word": "chidhanana",
+          "meaning_1": "rudzi rwedzvinyu diki rinowanzogara mumba",
+          "meaning_2": "",
+          "example_sentence": "Akarova chidhanana chaive padziro",
+          "similar_words": "chikorovondo,chiguyakuya,chidhambakura"
+        },
+        {
+          "word": "chikorovondo",
+          "meaning_1": "rudzi rwedzvinyu diki rinowanzogara mumba",
+          "meaning_2": "",
+          "example_sentence": "Akarova chikorovondo chaive padziro",
+          "similar_words": "chikorovondo,chiguyakuya,chidhambakura"
+        },
+        {
+          "word": "chiguyakuya",
+          "meaning_1": "rudzi rwedzvinyu diki rinowanzogara mumba",
+          "meaning_2": "",
+          "example_sentence": "Akarova chiguyakuya chaive padziro",
+          "similar_words": "chikorovondo,chiguyakuya,chidhambakura"
+        },
+        {
+          "word": "chidhambakura",
+          "meaning_1": "rudzi rwedzvinyu diki rinowanzogara mumba",
+          "meaning_2": "",
+          "example_sentence": "Akarova chidhambakura chaive padziro",
+          "similar_words": "chikorovondo,chiguyakuya,chidhambakura"
+        },
+        {
+          "word": "chidhinha",
+          "meaning_1": "ivhu rinoumbwa neforoma ropiswa nomoto",
+          "meaning_2": "",
+          "example_sentence": "mukomana apondwa nechidhinha",
+          "similar_words": "chitinha"
+        },
+        {
+          "word": "chitinha",
+          "meaning_1": "ivhu rinoumbwa neforoma ropiswa nomoto",
+          "meaning_2": "",
+          "example_sentence": "mukomana apondwa nechitinha chimwechete",
+          "similar_words": "chidhinha"
+        },
+        {
+          "word": "chifananidzo",
+          "meaning_1": "chinhu chinomiririra chimwe chinhu",
+          "meaning_2": "",
+          "example_sentence": "ndaona chifananidzo chemwana akarasika kuchikoro",
+          "similar_words": "mupikicha,mufanananidzo"
+        },
+        {
+          "word": "mupikicha",
+          "meaning_1": "chinhu chinomiririra chimwe chinhu",
+          "meaning_2": "",
+          "example_sentence": "ndaona mupikicha chemwana akarasika kuchikoro",
+          "similar_words": "chifananidzo,mufanananidzo"
+        },
+        {
+          "word": "mufananidzo",
+          "meaning_1": "chinhu chinomiririra chimwe chinhu",
+          "meaning_2": "",
+          "example_sentence": "ndaona mufananidzo wemwana akarasika kuchikoro",
+          "similar_words": "mupikicha,chinananidzo"
+        },
+        {
+          "word": "dakara",
+          "meaning_1": "kuzongoerekana",
+          "meaning_2": "",
+          "example_sentence": "takazongodakara tasvika kwataienda asi zuva rainge radoka",
+          "similar_words": "dzamara,dzimira"
+        },
+        {
+          "word": "dzamara",
+          "meaning_1": "kuzongoerekana",
+          "meaning_2": "",
+          "example_sentence": "takazongoodzamara tasvika kwataienda asi zuva rainge radoka",
+          "similar_words": "dakara,dzimira"
+        },
+        {
+          "word": "dzimira",
+          "meaning_1": "kuzongoerekana",
+          "meaning_2": "",
+          "example_sentence": "takazongodzimira tasvika kwataienda asi zuva rainge radoka",
+          "similar_words": "dzamara,dakara"
+        },
+        {
+          "word": "dada",
+          "meaning_1": "kuzvitutumadza kana kuzvikudza",
+          "meaning_2": "",
+          "example_sentence": "anodada neruzivo rwake",
+          "similar_words": "vhaira,"
+        },
+        {
+          "word": "vhaira",
+          "meaning_1": "kuzvitutumadza kana kuzvikudza",
+          "meaning_2": "",
+          "example_sentence": "anovhaira neruzivo rwake",
+          "similar_words": "dada"
+        },
+        {
+          "word": "daidza",
+          "meaning_1": "kushevedza zita romunhu kuti unzwike",
+          "meaning_2": "",
+          "example_sentence": "Musikana akadaidza shamwari yake amuona kumhiri kwemugwagwa",
+          "similar_words": "dana,davidza,shevedza"
+        },
+        {
+          "word": "dana",
+          "meaning_1": "kushevedza zita romunhu kuti unzwike",
+          "meaning_2": "",
+          "example_sentence": "Musikana akadana shamwari yake amuona kumhiri kwemugwagwa",
+          "similar_words": "daidza,davidza,shevedza"
+        },
+        {
+          "word": "davidza",
+          "meaning_1": "kushevedza zita romunhu kuti unzwike",
+          "meaning_2": "",
+          "example_sentence": "Musikana akadavidza shamwari yake amuona kumhiri kwemugwagwa",
+         "similar_words": "dana,daidza,shevedza"
+        },
+        {
+          "word": "shevedza",
+          "meaning_1": "kushevedza zita romunhu kuti unzwike",
+          "meaning_2": "",
+          "example_sentence": "Musikana akashevedza shamwari yake amuona kumhiri kwemugwagwa",
+          "similar_words": "dana,davidza,daidza"
+        },
+        {
+          "word": "dadamira",
+          "meaning_1": "kumira nezvigunwe kuti usvikire chinhu chiri pamusoro",
+          "meaning_2": "",
+          "example_sentence": "Chipo akadadamira kuti atore poto yaive pamusoro pekabhodhi",
+          "similar_words": "dadama,suzumira"
+        },
+        {
+          "word": "dadama",
+          "meaning_1": "kumira nezvigunwe kuti usvikire chinhu chiri pamusoro",
+          "meaning_2": "",
+          "example_sentence": "Chipo akadadama kuti atore poto yaive pamusoro pekabhodhi",
+          "similar_words": "dadamira,suzumira"
+        },
+        {
+          "word": "suzumira",
+          "meaning_1": "kumira nezvigunwe kuti usvikire chinhu chiri pamusoro",
+          "meaning_2": "",
+          "example_sentence": "Chipo akasuzumira kuti atore poto yaive pamusoro pekabhodhi",
+          "similar_words": "dadama,dadamira"
+        },
+        {
+          "word": "dafi",
+          "meaning_1": "chipuka chinogara mumvura chinamakumbo anenge e dhadha",
+          "meaning_2": "",
+          "example_sentence": "pane dafi rafira mutsime",
+          "similar_words": "chura,datya,dacha"
+        },
+        {
+          "word": "chura",
+          "meaning_1": "chipuka chinogara mumvura chinamakumbo anenge e dhadha",
+          "meaning_2": "",
+          "example_sentence": "pane chura rafira mutsime",
+          "similar_words": "dafi,datya,dacha"
+        },
+        {
+          "word": "datya",
+          "meaning_1": "chipuka chinogara mumvura chinamakumbo anenge e dhadha",
+          "meaning_2": "",
+          "example_sentence": "pane datya rafira mutsime",
+          "similar_words": "chura,dafi,dacha"
+        },
+        {
+          "word": "dacha",
+          "meaning_1": "chipuka chinogara mumvura chinamakumbo anenge e dhadha",
+          "meaning_2": "",
+          "example_sentence": "pane dacha rafira mutsime",
+          "similar_words": "chura,datya,dadi"
+        },
+        {
+          "word": "dama",
+          "meaning_1": "Dama inhengo yomuviri iri nechapazasi pemaziso, inodzika norutivi rwechiso, ine mukati munogona kuchengeterwa chokudya paunenge uchitsenga",
+          "meaning_2": "",
+          "example_sentence": "Zirume rakatsamwa matama aro akange achaputika.",
+          "similar_words": ""
+        },
+        {
+          "word": "damba",
+          "meaning_1": "Damba rudzi rwemuchero une ganda rakaoma sedende, unoti kana waibva unotora ruvara rweranjisi. ",
+          "meaning_2": "",
+          "example_sentence": "taona muti wemutamba wawakaibva",
+          "similar_words": ""
+        },
+        {
+          "word": "danga",
+          "meaning_1": "danga inzvimbo inovakwa nemapango kana mabwe, inorara kana kuchengeterwa mombe nezvimwewo zvipfuwo.",
+          "meaning_2": " danga imombe dzinobvisiswa mukuwasha sechimwe chikamu cheroora. ",
+          "example_sentence": "mukuwasha akatemwa danga remombe gumi, akatanga kuchema-chema.",
+          "similar_words": "chirugu"
+        },
+        {
+          "word": "chirugu",
+          "meaning_1": "danga inzvimbo inovakwa nemapango kana mabwe, inorara kana kuchengeterwa mombe nezvimwewo zvipfuwo.",
+          "meaning_2": "  ",
+          "example_sentence": "mukuwasha akavaka chirugu chehuku",
+          "similar_words": "danga"
+        },
+        {
+          "word": "dare",
+          "meaning_1": "dare inzvimbo inotongerwa nyaya pamuzinda waMambo kana mutongi",
+          "meaning_2": "inzvimbo inogara varume panze vakakadzi vari mumba ",
+          "example_sentence": "Dare harina kugutsikana neumboo hwakapiwa nechapupu.",
+          "similar_words": ""
+        },
+        {
+          "word": "dambudziko",
+          "meaning_1": "nhamo inowira munhu;ingave nhamo huru sorufu kana kuti duku",
+          "meaning_2": "inyaya inenge ichikushusha mumwoyo mako, zvokuti haukwanisi kuwana rufaro. ",
+          "example_sentence": "Baba ava vasangana nedambudziko rekubirwa badza",
+          "similar_words": "dambudzo"
+        },
+        {
+          "word": "dambudzo",
+          "meaning_1": "inyaya inenge ichikushusha mumwoyo mako, zvokuti haukwanisi kuwana rufaro.",
+          "meaning_2": " ",
+          "example_sentence": " idambudzo guru kana ukarambwa nemudiwa wako iwe uchamuda.",
+          "similar_words": "dambudziko"
+        },
+        {
+          "word": "dambuka",
+          "meaning_1": "kudanzuka kunoita gavi,tambo mushure mokukakatwa",
+          "meaning_2": " ",
+          "example_sentence": "Gavi radambuka raaive akaakasungisa huni",
+          "similar_words": "bvaruka"
+        },
+        {
+          "word": "bvaruka",
+          "meaning_1": "kudanzuka kunoita gavi,tambo mushure mokukakatwa",
+          "meaning_2": " ",
+          "example_sentence": "Gavi rakabvaruka raaive akaakasungisa huni",
+          "similar_words": "dambuka"
+        },
+        {
+          "word": "dana",
+          "meaning_1": "kudaidza munhu",
+          "meaning_2": " ",
+          "example_sentence": "Akadana amai vake kuti vaone nyoka",
+          "similar_words": "shedza"
+        },
+        {
+          "word": "shedza",
+          "meaning_1": "kudaidza munhu",
+          "meaning_2": " ",
+          "example_sentence": "Akashedza amai vake kuti vaone nyoka",
+          "similar_words": "dana"
+        },
+        {
+          "word": "danda",
+          "meaning_1": "huni hobvu inoshandiswa kana pachidiwa moto mukuru",
+          "meaning_2": " ",
+          "example_sentence": "Akawedzera moto nedanda raive kuseri kwemba",
+          "similar_words": ""
+        },
+        {
+          "word": "dandadzi",
+          "meaning_1": "chinogadzirwa nebuwebuwe chokuteyesa nhunzi",
+          "meaning_2": " ",
+          "example_sentence": "Akabvisa dandadzi mumba yaamai vake",
+          "similar_words": "dandemutande"
+        },
+        {
+          "word": "dandemutande",
+          "meaning_1": "chinogadzirwa nebuwebuwe chokuteyesa nhunzi",
+          "meaning_2": " ",
+          "example_sentence": "Akabvisa dandemutande mumba yaamai vake",
+          "similar_words": "dandazi"
+        },
+        {
+          "word": "dandaura",
+          "meaning_1": "kurova ngoma kuti iririse",
+          "meaning_2": " ",
+          "example_sentence": "akandandaura ngoma pabira",
+          "similar_words": ""
+        },
+        {
+          "word": "dede",
+          "meaning_1": "mhuka yemusango iene mahobi ;inofamba mumapako",
+          "meaning_2": " ",
+          "example_sentence": "Akaona dede musango ari ega.",
+          "similar_words": "gudo,diro,bveni"
+        },
+        {
+          "word": "gudo",
+          "meaning_1": "mhuka yemusango iene mahobi ;inofamba mumapako",
+          "meaning_2": " ",
+          "example_sentence": "Akaona gudo musango ari ega.",
+          "similar_words": "dede,diro,bveni"
+        },
+        {
+          "word": "diro",
+          "meaning_1": "mhuka yemusango iene mahobi ;inofamba mumapako",
+          "meaning_2": " ",
+          "example_sentence": "Akaona diro musango ari ega.",
+          "similar_words": "gudo,dede,bveni"
+        },
+        {
+          "word": "bveni",
+          "meaning_1": "mhuka yemusango iene mahobi ;inofamba mumapako",
+          "meaning_2": " ",
+          "example_sentence": "Akaona bveni musango ari ega.",
+          "similar_words": "gudo,diro,dede"
+        },
+        {
+          "word": "dehenya",
+          "meaning_1": "bvupa romusoro rakatenderedza uropi",
+          "meaning_2": " ",
+          "example_sentence": "akatemwa dehenya rake",
+          "similar_words": "dehenyn'a,ruteme"
+        },
+        {
+          "word": "dehenyn'a",
+          "meaning_1": "bvupa romusoro rakatenderedza uropi",
+          "meaning_2": " ",
+          "example_sentence": "akatemwa dehenyn'a rake",
+          "similar_words": "dehenya,ruteme"
+        },
+        {
+          "word": "ruteme",
+          "meaning_1": "bvupa romusoro rakatenderedza uropi",
+          "meaning_2": " ",
+          "example_sentence": "akatemwa ruteme rwake",
+          "similar_words": "dehenyn'a,dehenya"
+        },
+        {
+          "word": "dekara",
+          "meaning_1": "kuva norugare pasina zvinonetsa mumwoyo kana muhana ",
+          "meaning_2": " ",
+          "example_sentence": "akadekara kumba kwamai vake",
+          "similar_words": "garika"
+        },
+        {
+          "word": "garika",
+          "meaning_1": "kuva norugare pasina zvinonetsa mumwoyo kana muhana ",
+          "meaning_2": " ",
+          "example_sentence": "akagarika kumba kwamai vake",
+          "similar_words": "dekara"
+        },
+        {
+          "word": "dhadha ",
+          "meaning_1": "shiri yomumvura yakakura sehuku",
+          "meaning_2": " ",
+          "example_sentence": "Akaona dhadha mumvura",
+          "similar_words": ""
+        },
+        {
+          "word": "dhafu",
+          "meaning_1": "munhu mukobvu akasimba chaizvo",
+          "meaning_2": " ",
+          "example_sentence": "Amai vake vadhafu",
+          "similar_words": "kobvu"
+        },
+        {
+          "word": "kobvu",
+          "meaning_1": "munhu mukobvu akasimba chaizvo",
+          "meaning_2": " ",
+          "example_sentence": "Amai vake vakobvu",
+          "similar_words": "dhafu"
+        },
+        {
+          "word": "dhaka",
+          "meaning_1": "ivhu rakakanyiwa nemvura  ",
+          "meaning_2": " ",
+          "example_sentence": "akaumba hari yake nedhaka repachuru",
+          "similar_words": ""
+        },
+        {
+          "word": "dhunduru",
+          "meaning_1": "idutu revhu rinobva panocherwa mugero.",
+          "meaning_2": "ivhu rakaumbidzirwa, panodzvarwa mbeu dzakaita sembambaira. ",
+          "example_sentence": "adyara mbambaira akasiya dunduru",
+          "similar_words": "ivhu"
+        },
+        {
+          "word": "ivhu",
+          "meaning_1": "idutu revhu rinobva panocherwa mugero.",
+          "meaning_2": "ivhu rakaumbidzirwa, panodzvarwa mbeu dzakaita sembambaira. ",
+          "example_sentence": "adyara mbambaira akasiya ivhu",
+          "similar_words": "dhunduru"
+        },
+        {
+          "word": "dhura",
+          "meaning_1": "kuva nomutengo uripamusoro",
+          "meaning_2": " ",
+          "example_sentence": "peturu inodhura mazuvano",
+          "similar_words": "kwira"
+        },
+        {
+          "word": "kwira",
+          "meaning_1": "kuva nomutengo uripamusoro",
+          "meaning_2": " kuenda panzvimbo iripamusoro",
+          "example_sentence": "peturu inodhura mazuvano",
+          "similar_words": "dhura"
+        },
+        {
+          "word": "dikita",
+          "meaning_1": "mvura inobuda mumuviri kana munhu aneta kana kupiswa",
+          "meaning_2": " ",
+          "example_sentence": "Abuda dikita mushure mekufamba muzuva",
+          "similar_words": "ziya,chipfundi"
+        },
+        {
+          "word": "ziya",
+          "meaning_1": "mvura inobuda mumuviri kana munhu aneta kana kupiswa",
+          "meaning_2": " ",
+          "example_sentence": "Abuda ziya mushure mekufamba muzuva",
+          "similar_words": "dikita,chipfundi"
+        },
+        {
+          "word": "chipfundi",
+          "meaning_1": "mvura inobuda mumuviri kana munhu aneta kana kupiswa",
+          "meaning_2": " ",
+          "example_sentence": "Abuda chipfundi mushure mekufamba muzuva",
+          "similar_words": "ziya,dikita"
+        },
+        {
+          "word": "dimbwa",
+          "meaning_1": "munda unorimwa mupunga kana tsenza",
+          "meaning_2": " ",
+          "example_sentence": "Amai vakarima mupunga mudimbwa ravo.",
+          "similar_words": "doro"
+        },
+        {
+          "word": "doro",
+          "meaning_1": "munda unorimwa mupunga kana tsenza",
+          "meaning_2": " ",
+          "example_sentence": "Amai vakarima mupunga mudoro ravo.",
+          "similar_words": "dimbwa"
+        },
+        {
+          "word": "dimikira",
+          "meaning_1": "chirevo kana ngano inoshandiswa pakutsanangura chakasiyana nedudziro yamazwi",
+          "meaning_2": " ",
+          "example_sentence": "Ambuya vanofarira kutaura nemadimikira ",
+          "similar_words": ""
+        },
+        {
+          "word": "diki",
+          "meaning_1": "izwi rinoreva chinhu chisiri chikuru",
+          "meaning_2": " ",
+          "example_sentence": "shangu iyi idiki,haichakwani",
+          "similar_words": "duku,doko"
+        },
+        {
+          "word": "duku",
+          "meaning_1": "izwi rinoreva chinhu chisiri chikuru",
+          "meaning_2": " ",
+          "example_sentence": "shangu iyi iduku,haichakwani",
+          "similar_words": "diki,doko"
+        },
+        {
+          "word": "doko",
+          "meaning_1": "izwi rinoreva chinhu chisiri chikuru",
+          "meaning_2": " ",
+          "example_sentence": "shangu iyi idoko,haichakwani",
+          "similar_words": "duku,diki"
+        },
+        {
+          "word": "dimura",
+          "meaning_1": "izwi rinoreva kudambura",
+          "meaning_2": " ",
+          "example_sentence": "Akadimura mbambaira akapa mwana",
+          "similar_words": "dambura,dimbura,gura,"
+        },
+        {
+          "word": "dambura",
+          "meaning_1": "izwi rinoreva kudambura",
+          "meaning_2": " ",
+          "example_sentence": "Akadambura mbambaira akapa mwana",
+          "similar_words": "dimura,dimbura,gura,"
+        },
+        {
+          "word": "dimbura",
+          "meaning_1": "izwi rinoreva kudambura",
+          "meaning_2": " ",
+          "example_sentence": "Akadimbura mbambaira akapa mwana",
+          "similar_words": "dambura,dimura,gura,"
+        },
+        {
+          "word": "gura",
+          "meaning_1": "izwi rinoreva kudambura",
+          "meaning_2": " ",
+          "example_sentence": "Akagura mbambaira akapa mwana",
+          "similar_words": "dambura,dimbura,dimura,"
+        },
+        {
+          "word": "dongorera",
+          "meaning_1": "kutarisa mukati kana kunze uchibirira",
+          "meaning_2": "kutarisa munhu akahwanda ",
+          "example_sentence": "Akadongorera mumba akaona musina vanhu",
+          "similar_words": "sonza"
+        },
+        {
+          "word": "sonza",
+          "meaning_1": "kutarisa mukati kana kunze uchibirira",
+          "meaning_2": "kutarisa munhu akahwanda ",
+          "example_sentence": "Akasonza mumba akaona musina vanhu",
+          "similar_words": "dongorera"
+        },
+        {
+          "word": "donha",
+          "meaning_1": "kupunzika pasi",
+          "meaning_2": "",
+          "example_sentence": "Akadonha pasi mushure mekunge arohwa",
+          "similar_words": "punzika"
+        },
+        {
+          "word": "punzika",
+          "meaning_1": "kupunzika pasi",
+          "meaning_2": "",
+          "example_sentence": "Akapunzika pasi mushure mekunge arohwa",
+          "similar_words": "donha"
+        },
+        {
+          "word": "donongora",
+          "meaning_1": "kutaura zvose ,pasina kana chinosara",
+          "meaning_2": "",
+          "example_sentence": "Akadonongora kushamwari yake zvose zvainge zvaitika",
+          "similar_words": "rondedzera"
+        },
+        {
+          "word": "rondedzera",
+          "meaning_1": "kutaura zvose ,pasina kana chinosara",
+          "meaning_2": "",
+          "example_sentence": "Akarondedzera kushamwari yake zvose zvainge zvaitika",
+          "similar_words": "donongora"
+        },
+        {
+          "word": "donzva",
+          "meaning_1": "kubatiridza kufamba nomubhadha sechembere pamusana pekukwegura",
+          "meaning_2": "",
+          "example_sentence": "Sekuru vanodonzva kana vachienda kumunda",
+          "similar_words": ""
+        },
+        {
+          "word": "dope",
+          "meaning_1": "mvura inojenga",
+          "meaning_2": "",
+          "example_sentence": "Akatsika dope akanyura",
+          "similar_words": "dhaga,dete"
+        },
+        {
+          "word": "dhaga",
+          "meaning_1": "mvura inojenga",
+          "meaning_2": "",
+          "example_sentence": "Akatsika dhaga akanyura",
+          "similar_words": "dope,dete"
+        },
+        {
+          "word": "dete",
+          "meaning_1": "mvura inojenga",
+          "meaning_2": "",
+          "example_sentence": "Akatsika dete akanyura",
+          "similar_words": "dhaga,dope"
+        },
+        {
+          "word": "dora",
+          "meaning_1": "gonye rinodyiwa rinogara mumumiunze nomumitara nomuminhondo nomumisasa",
+          "meaning_2": "",
+          "example_sentence": "Akanhonga dora pasi pemuti",
+          "similar_words": "harati"
+        },
+        {
+          "word": "harati",
+          "meaning_1": "gonye rinodyiwa rinogara mumumiunze nomumitara nomuminhondo nomumisasa",
+          "meaning_2": "",
+          "example_sentence": "Akanhonga harati pasi pemuti",
+          "similar_words": "dora"
+        },
+        {
+          "word": "dore",
+          "meaning_1": "mombe yachembera",
+          "meaning_2": "",
+          "example_sentence": "Vakauraya dore musi wemuchato",
+          "similar_words": ""
+        },
+        {
+          "word": "doro",
+          "meaning_1": "chinwiwa chinodhaka, chinobikwa nemumera kana nezvimwewo.",
+          "meaning_2": "munda unorimirwa mupunga",
+          "example_sentence": "Vakamwa doro musi wemuchato",
+          "similar_words": "mhamba,hwahwa,ngwengwe,ngoto"
+        },
+        {
+          "word": "mhamba",
+          "meaning_1": "chinwiwa chinodhaka, chinobikwa nemumera kana nezvimwewo.",
+          "meaning_2": "",
+          "example_sentence": "Vakamwa mhamba musi wemuchato",
+          "similar_words": "doro,hwahwa,ngwengwe,ngoto"
+        },
+        {
+          "word": "hwahwa",
+          "meaning_1": "chinwiwa chinodhaka, chinobikwa nemumera kana nezvimwewo.",
+          "meaning_2": "",
+          "example_sentence": "Vakamwa hwahwa musi wemuchato",
+          "similar_words": "mhamba,doro,ngwengwe,ngoto"
+        },
+        {
+          "word": "ngwengwe",
+          "meaning_1": "chinwiwa chinodhaka, chinobikwa nemumera kana nezvimwewo.",
+          "meaning_2": "",
+          "example_sentence": "Vakamwa ngoto musi wemuchato",
+          "similar_words": "mhamba,hwahwa,doro,ngoto"
+        },
+        {
+          "word": "ngoto",
+          "meaning_1": "chinwiwa chinodhaka, chinobikwa nemumera kana nezvimwewo.",
+          "meaning_2": "",
+          "example_sentence": "Vakamwa doro musi wemuchato",
+          "similar_words": "mhamba,hwahwa,ngwengwe,ngoto"
+        },
+        {
+          "word": "dyara",
+          "meaning_1": "kuisa mbeu muvhu",
+          "meaning_2": "",
+          "example_sentence": "Amai vakadyara chibage nezuro",
+          "similar_words": "kavira,dzvara"
+        },
+        {
+          "word": "kavira",
+          "meaning_1": "kuisa mbeu muvhu",
+          "meaning_2": "",
+          "example_sentence": "Amai vakakavira chibage nezuro",
+          "similar_words": "dyara,dzvara"
+        },
+        {
+          "word": "dzvara",
+          "meaning_1": "kuisa mbeu muvhu",
+          "meaning_2": "",
+          "example_sentence": "Amai vakadzvara chibage nezuro",
+          "similar_words": "kavira,dyara"
+        },
+        {
+          "word": "dyunga",
+          "meaning_1": "izwi rinoreva kubaya",
+          "meaning_2": "",
+          "example_sentence": "Akajunga murwere nejekiseni nezuro kuchipatara",
+          "similar_words": "baya"
+        },
+        {
+          "word": "baya",
+          "meaning_1": "izwi rinoreva kubaya",
+          "meaning_2": "",
+          "example_sentence": "Akabaya murwere nejekiseni nezuro kuchipatara",
+          "similar_words": "dyunga"
+        },
+        {
+          "word": "dzimba",
+          "meaning_1": "zvivakwa, zvikuru kana zvidiki, zvinomiswa nemapango, mabwe kana zvidhina kuti vanhu vagogara kana kushandira mukati",
+          "meaning_2": "",
+          "example_sentence": "Akatenga dzimba dzizhinji kuHarare",
+          "similar_words": ""
+        },
+        {
+          "word": "dzimbo",
+          "meaning_1": "zviimbwa zvinoitwa nevamwe",
+          "meaning_2": "",
+          "example_sentence": "Vakaimba dzimbo dzizhinji pamuchato",
+          "similar_words": "nziyo"
+        },
+        {
+          "word": "nziyo",
+          "meaning_1": "zviimbwa zvinoitwa nevamwe",
+          "meaning_2": "",
+          "example_sentence": "Vakaimba nziyo dzizhinji pamuchato",
+          "similar_words": "dzimbo"
+        },
+        {
+          "word": "dzimura",
+          "meaning_1": "kudzima moto unenge wobvira pasingafaniri kutsva ",
+          "meaning_2": "",
+          "example_sentence": "Akadzimura moto waibvira musango rine mhuka",
+          "similar_words": "dzima"
+        },
+        {
+          "word": "dzima",
+          "meaning_1": "kudzima moto unenge wobvira pasingafaniri kutsva ",
+          "meaning_2": "",
+          "example_sentence": "Akadzima moto waibvira musango rine mhuka",
+          "similar_words": "dzimura"
+        },
+        {
+          "word": "dzinga",
+          "meaning_1": "izwi rinoreva kutanda",
+          "meaning_2": "",
+          "example_sentence": "Akadzinga mombe mumunda",
+          "similar_words": "tanda"
+        },
+        {
+          "word": "tanda",
+          "meaning_1": "izwi rinoreva kutanda",
+          "meaning_2": "",
+          "example_sentence": "Akatanda mombe mumunda",
+          "similar_words": "dzinga"
+        },
+        {
+          "word": "dzinza",
+          "meaning_1": "rudzi rwomunhu, zvichitevedza kubva kumadzitateguru ake.",
+          "meaning_2": "",
+          "example_sentence": " Dzinza rokwaMukuratsenzi idzinza ravarimi vane mukurumbira. ",
+          "similar_words": ""
+        },
+        {
+          "word": "dzipa",
+          "meaning_1": "kuvhara huro kuti munhu arege kufema",
+          "meaning_2": "",
+          "example_sentence": "Benzi rakadzipa musikana aipfura nenzira ",
+          "similar_words": "dzvinya"
+        },
+        {
+          "word": "dzvinya",
+          "meaning_1": "kuvhara huro kuti munhu arege kufema",
+          "meaning_2": "",
+          "example_sentence": "Benzi rakadzvinyaa musikana aipfura nenzira ",
+          "similar_words": "dzipa"
+        },
+        {
+          "word": "dzupuka",
+          "meaning_1": "kudzurika kunoita chakamera seuswa kana maruva",
+          "meaning_2": "",
+          "example_sentence": "Masora anodzupuka nyore kana pasi paka nyorova ",
+          "similar_words": "dzurika"
+        },
+        {
+          "word": "dzurika",
+          "meaning_1": "kudzurika kunoita chakamera seuswa kana maruva",
+          "meaning_2": "",
+          "example_sentence": "Masora anodzurika nyore kana pasi paka nyorova ",
+          "similar_words": "dzupuka"
+        },
+        {
+          "word": "dzvi",
+          "meaning_1": "izwi rinoreva kubata nesimba",
+          "meaning_2": "",
+          "example_sentence": " Akadzvinya shamwari yake nesimba",
+          "similar_words": "dzipa"
+        },
+        {
+          "word": "dzipa",
+          "meaning_1": "izwi rinoreva kubata nesimba",
+          "meaning_2": "",
+          "example_sentence": " Akadzipa shamwari yake nesimba",
+          "similar_words": "dzvi"
+        },
+        {
+          "word": "dzoka",
+          "meaning_1": "kuuya zvakare kwawambobva",
+          "meaning_2": "",
+          "example_sentence": "Adzoka kubva kuHarare nezuro",
+          "similar_words": ""
+        },
+        {
+          "word": "dzoro",
+          "meaning_1": "nguva yokuti mumwe achiitawo basa rinoravanwa ",
+          "meaning_2": "",
+          "example_sentence": "Vakomana vemumusha vanoita madzoro kufudza mombe",
+          "similar_words": "jana"
+        },
+        {
+          "word": "jana",
+          "meaning_1": "nguva yokuti mumwe achiitawo basa rinoravanwa ",
+          "meaning_2": "",
+          "example_sentence": "Vakomana vemumusha vanoita majana kufudza mombe",
+          "similar_words": "dzoro"
+        },
+        
+        {
+          "word": "dzivirira",
+          "meaning_1": "kuvhara mudziyo kuisa chidzivo pahotoro",
+          "meaning_2": "",
+          "example_sentence": "Amai vakadzivirira vana vavo kuti vasarohwa nembavha",
+          "similar_words": "vhikira"
+        },
+        {
+          "word": "vhikira",
+          "meaning_1": "kuvhara mudziyo kuisa chidzivo pahotoro",
+          "meaning_2": "",
+          "example_sentence": "Amai vakavhikira vana vavo kuti vasarohwa nembavha",
+          "similar_words": "dzivirira"
+        },
+        {
+          "word": "dzokorodza",
+          "meaning_1": "kupamhidza zvekare",
+          "meaning_2": "",
+          "example_sentence": "Chipo akadzokorodza zvidzidzo zvake mushure mekunge afoira",
+          "similar_words": "pamhidza"
+        },
+        {
+          "word": "pamhidza",
+          "meaning_1": "kupamhidza zvekare",
+          "meaning_2": "",
+          "example_sentence": "Chipo akapamhidza zvidzidzo zvake mushure mekunge afoira",
+          "similar_words": "dzokorodza"
+        },
+        {
+          "word": "dziya",
+          "meaning_1": "kugara padyo nemoto kana pazuva kuti muviriupindwe nekupisa",
+          "meaning_2": "",
+          "example_sentence": "Amai vakagara panze vachidziya zuva",
+          "similar_words": ""
+        },
+        {
+          "word": "dzviti",
+          "meaning_1": "Varungu",
+          "meaning_2": "vanhu vaitapa vashona kare vachivatorera zvinhu zvavo pamwe navakadzi",
+          "example_sentence": "Vadzviti vaitora vakadzi vevanhu kare",
+          "similar_words": "pambi"
+        },
+        {
+          "word": "pambi",
+          "meaning_1": "Varungu",
+          "meaning_2": "vanhu vaitapa vashona kare vachivatorera zvinhu zvavo pamwe navakadzi",
+          "example_sentence": "Vapambi vaitora vakadzi vevanhu kare",
+          "similar_words": "dzviti"
+        },
+        {
+          "word": "dzvoti",
+          "meaning_1": " inyoka inouraya makonzo ichiita zvokuamonerera. ",
+          "meaning_2": "kuisa kana kuwedzera mbichana",
+          "example_sentence": "Vavhimi vakaona dzvoti musango vakaiuraya",
+          "similar_words": "tsvoti"
+        },
+        {
+          "word": "tsvoti",
+          "meaning_1": " inyoka inouraya makonzo ichiita zvokuamonerera. ",
+          "meaning_2": "kuisa kana kuwedzera mbichana",
+          "example_sentence": "Amai vakawedzera ka tsvoti kemvura munyama yavaibika",
+          "similar_words": "dzvoti"
+        },     
+        {
+          "word": "dzvova",
+          "meaning_1": "kuburitsa mweya nemukamwa",
+          "meaning_2": "",
+          "example_sentence": "Kacheche kakadzvova mushure mekunge kapedza kumwa mukaka wamai",
+          "similar_words": ""
+        },
+        
+        {
+          "word": "dzvura",
+          "meaning_1": "kupwanya mbeswa muduri",
+          "meaning_2": "",
+          "example_sentence": "Amai vakadzvura mupunga wavo waive mudura",
+          "similar_words": "tswa"
+        },
+        {
+          "word": "tswa",
+          "meaning_1": "kupwanya mbeswa muduri",
+          "meaning_2": "",
+          "example_sentence": "Amai vakatswa mupunga wavo waive mudura",
+          "similar_words": "dzvura"
+        },
+        {
+          "word": "dzoira",
+          "meaning_1": "kupinda kunoita nheme mumvura kana hove dzichidya chiri pachirauro",
+          "meaning_2": "",
+          "example_sentence": "Nheme yakadzoira ichipinda mumvura",
+          "similar_words": ""
+        },
+        
+        {
+          "word": "dzoran'ombe",
+          "meaning_1": "shiri chena inodya zvidari zviri pamombe nezvitototo",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akatema dzoran'ombe nedombo achida kunogocha",
+          "similar_words": "fudzamombe"
+        },
+        {
+          "word": "fudzamombe",
+          "meaning_1": "shiri chena inodya zvidari zviri pamombe nezvitototo",
+          "meaning_2": "",
+          "example_sentence": "Mukomana akatema fudzamombe nedombo achida kunogocha",
+          "similar_words": "dzoran'ombe"
+        },
+        {
+          "word": "dzosera",
+          "meaning_1": "chiito chopa munhu chinhu chiwaunenge wamukumbira usina kupihwa zvachose",
+          "meaning_2": "",
+          "example_sentence": "Chipo akadzosera badza raanga kumbira kuna ambuuya vake",
+          "similar_words": "dzorera"
+        },
+        {
+          "word": "dzorera",
+          "meaning_1": "chiito chopa munhu chinhu chiwaunenge wamukumbira usina kupihwa zvachose",
+          "meaning_2": "",
+          "example_sentence": "Chipo akadzorera badza raanga kumbira kuna ambuuya vake",
+          "similar_words": "dzosera"
+        },
+        {
+          "word": "dziva",
+          "meaning_1": "nzvimbo ine mvura isingaperi kana kuti nzvimbo yerwizi yakadzika",
+          "meaning_2": "",
+          "example_sentence": "dziva iro rinonzi rinengwena",
+          "similar_words": ""
+        },
+        {
+          "word": "dzidza",
+          "meaning_1": "ruzivo runowanikwa kana munhu aenda kuchikoro kana kurairwa nemumwe munhu akachenjera",
+          "meaning_2": "",
+          "example_sentence": "Mwanasikana wavo akadzidza tsika dzakanaka asati arorwa",
+          "similar_words": "funda"
+        },
+        {
+          "word": "funda",
+          "meaning_1": "ruzivo runowanikwa kana munhu aenda kuchikoro kana kurairwa nemumwe munhu akachenjera",
+          "meaning_2": "",
+          "example_sentence": "Mwanasikana wavo akafunda tsika dzakanaka asati arorwa",
+          "similar_words": "dzidza"
+        },
+       
+        {
+          "word": "dzihwa",
+          "meaning_1": "chirwere chokuburitsa  nomumhuno zvinenge mvura nokukosora",
+          "meaning_2": "",
+          "example_sentence": "Mwana wavo aibuda dzihwa raikonzerwa nechikosoro",
+          "similar_words": ""
+        },
+        {
+          "word": "dzimira",
+          "meaning_1": "kutadza kuziva kuti wasvika sei paunenge uri",
+          "meaning_2": "",
+          "example_sentence": "ndakadzimira ndakutaundi",
+          "similar_words": "kuyerekana"
+        },
+        {
+          "word": "kuyerekana",
+          "meaning_1": "kutadza kuziva kuti wasvika sei paunenge uri",
+          "meaning_2": "",
+          "example_sentence": "ndakayerekana ndakutaundi",
+          "similar_words": "dzimira"
+        },
+        {
+          "word": "dzimwaira",
+          "meaning_1": "kubata nehope wakagara ,musoro uchigutsirira",
+          "meaning_2": "",
+          "example_sentence": "Tonde aidzimwaira nehope nezuro mahusiku",
+          "similar_words": "tsumwaira"
+        },
+        {
+          "word": "tsumwaira",
+          "meaning_1": "kubata nehope wakagara ,musoro uchigutsirira",
+          "meaning_2": "",
+          "example_sentence": "Tonde aitsumwaira nehope nezuro mahusiku",
+          "similar_words": "dzimwaira"
+        },
+        {
+          "word": "dzivirira",
+          "meaning_1": "kuchengetedza chinhu kuti parege kuwana chinokuvadza",
+          "meaning_2": "",
+          "example_sentence": "Akadzivirira mwana wake mushure mekunge akuda kurohwa nezvigure",
+          "similar_words": "pipira"
+        },
+        {
+          "word": "pipira",
+          "meaning_1": "kuchengetedza chinhu kuti parege kuwana chinokuvadza",
+          "meaning_2": "",
+          "example_sentence": "Akapipira mwana wake mushure mekunge akuda kurohwa nezvigure",
+          "similar_words": "Dzivirira"
+        },
+        {
+          "word": "dzivisa ",
+          "meaning_1": "kurambidza kana kutadzisa munhu kuita madiro ake",
+          "meaning_2": "",
+          "example_sentence": "hapana akamudzivisa kuuya kudhorobha",
+          "similar_words": "kurambidza"
+        },
+        {
+          "word": "kurambidza",
+          "meaning_1": "kurambidza kana kutadzisa munhu kuita madiro ake",
+          "meaning_2": "",
+          "example_sentence": "hapana akamurambidza kuuya kudhorobha",
+          "similar_words": "dzivisa"
+        },
+        {
+          "word":"dzvamuka",
+          "meaning_1": "kubhururuka kunoia shiri zhinji panguva imwe chete",
+          "meaning_2": "",
+          "example_sentence": "Shiri yakadzvamuka ichibva muka muti kamusawu",
+          "similar_words": ""
+        },
+        {
+          "word":"ee",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": "hongu, ehunde, eho"
+        },
+        {
+          "word":"hongu",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": "ee, ehunde, eho"
+        },
+        {
+          "word":"ehunde",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": "hongu, ee, eho"
+        },
+        {
+          "word":"eho",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": "hongu, ehunde, ee"
+        },
+        {
+          "word":"edza",
+          "meaning_1": "kuchena kunoita kunze kana zuva roda kubuda",
+          "meaning_2": "kuzama kuita chinhu kuti chibudirire",
+          "example_sentence": "Nhasi kwanonoka kuedza",
+          "similar_words": "idza, zama"
+        },
+        {
+          "word":"idza",
+          "meaning_1": "kuzama kuita chinhu kuti chibudirire",
+          "meaning_2": "",
+          "example_sentence": "Ndaidza kufamba asi makubo anga achirwadza",
+          "similar_words": "idza, zama"
+        },
+        {
+          "word":"zama",
+          "meaning_1": "kkuzama kuita chinhu kuti chibudirire",
+          "meaning_2": "",
+          "example_sentence": "Ndazama kufamba asi makubo anga achirwadza",
+          "similar_words": "idza, zama"
+        },
+        {
+          "word":"edzesera",
+          "meaning_1": "kuzama kuita chinhu nesimba rose kuti chibudirire",
+          "meaning_2": "",
+          "example_sentence": "Chipo akaedzesera pazvidzidzo zvake",
+          "similar_words": "Edzerera"
+        },
+        {
+          "word":"edzerera",
+          "meaning_1": "kuzama kuita chinhu nesimba rose kuti chibudirire",
+          "meaning_2": "",
+          "example_sentence": "Chipo akaedzerera pazvidzidzo zvake",
+          "similar_words": "Edzesera"
+        },
+        {
+          "word":"eka",
+          "meaning_1": "",
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": "edzerera"
+        },
+        {
+          "word":"ema",
+          "meaning_1": "kunetsa pasina chikonzero",
+          "meaning_2": "",
+          "example_sentence": "Mwana wavo mudiki anoema",
+          "similar_words": "yema"
+        },
+        {
+          "word":"yema",
+          "meaning_1": "kunetsa pasina chikonzero",
+          "meaning_2": "",
+          "example_sentence": "Mwana wavo mudiki anoyema",
+          "similar_words": "Ema"
+        },
+        {
+          "word":"embera",
+          "meaning_1": "kurovanisa maoko ",
+          "meaning_2": "",
+          "example_sentence": "Vakaembera maoko vana vainge vakunda zvidzidzo zvavo",
+          "similar_words": "ombera,uchira"
+        },
+        {
+          "word":"ombera",
+          "meaning_1": "kurovanisa maoko",
+          "meaning_2": "",
+          "example_sentence": "Vakaombera maoko vachitambidzwa mibairo yavo",
+          "similar_words": "ombera,uchira"
+        },
+        {
+          "word":"uchira",
+          "meaning_1": "kurovanisa maoko",
+          "meaning_2": "",
+          "example_sentence": "Vakauchira maoko vachitambidzwa mibairo yavo",
+          "similar_words": "ombera,uchira"
+        },
+        {
+          "word":"enda",
+          "meaning_1": "kufamba wakananga kumwe kunhu",
+          "meaning_2": "",
+          "example_sentence": "Baba vakaenda kuHarare nezuro",
+          "similar_words": "inda"
+        },
+        {
+          "word":"inda",
+          "meaning_1": "kufamba wakananga kumwe kunhu",
+          "meaning_2": "",
+          "example_sentence": "Baba vakainda kuHrare nezuro",
+          "similar_words": "Enda"
+        },
+        {
+          "word":"enzana",
+          "meaning_1": "kukura kana kuwana zvakafanana",
+          "meaning_2": "",
+          "example_sentence": "Vakomana avo vakaenzana pamakore avo",
+          "similar_words": "kufanana"
+        },
+        {
+          "word":"kufanana",
+          "meaning_1": "kukura kana kuwana zvakafanana",
+          "meaning_2": "",
+          "example_sentence": "Vakomana avo vakafanana makore avo",
+          "similar_words": "Enzena"
+        },
+        {
+          "word":"enzera",
+          "meaning_1": "kubatwa nehope nekupinda mumagumbeze",
+          "meaning_2": "",
+          "example_sentence": "Akaenzera mushure mukuswera akaneta.",
+          "similar_words": "rara,kotsira"
+        },
+        {
+          "word":"rara",
+          "meaning_1": "kubatwa nehope nekubvawazorora",
+          "meaning_2": "",
+          "example_sentence": "Akarara mushure mukuswera akaneta.",
+          "similar_words": "Enzera,rara"
+        },
+        {
+          "word":"kotsira",
+          "meaning_1": "kubatwa nehope nekubvawazorora",
+          "meaning_2": "",
+          "example_sentence": "Akakotsira mushure mukuswera akaneta.",
+          "similar_words": "Enzera,rara"
+        },
+        {
+          "word":"era",
+          "meaning_1": "kurememkedza mhuka yomutupo womunhu",
+          "meaning_2": "kuita zvinokuzivisa urefu kana uwandi kana upamhi",
+          "example_sentence": "amai vake vanoera tsoko",
+          "similar_words": "yera,pima"
+        },
+        {
+          "word":"yera",
+          "meaning_1": "kurememkedza mhuka yomutupo womunhu",
+          "meaning_2": "kuita zvinokuzivisa urefu kana uwandi kana upamhi",
+          "example_sentence": "Amai vanoyera shumba",
+          "similar_words": "era,pima"
+        },
+        {
+          "word":"pima",
+          "meaning_1": "kurememkedza mhuka yomutupo womunhu",
+          "meaning_2": "kuita zvinokuzivisa urefu kana uwandi kana upamhi",
+          "example_sentence": "Amai vakapima hupfu vakavapa",
+          "similar_words": "yera,Era"
+        },
+        {
+          "word":"eredza",
+          "meaning_1": "Kuita kuti chinhu chiyerere",
+          "meaning_2": "",
+          "example_sentence": "Akaeredza tsanga yaakaisa mumvura",
+          "similar_words": "Erera"
+        },
+        {
+          "word":"erera",
+          "meaning_1": "Mafambiro anoita mvura ichibva pakakwirira",
+          "meaning_2": "",
+          "example_sentence": "Mvura yakaerera kubva pachitubu",
+          "similar_words": "Eredza"
+        },
+        {
+          "word":"ereka",
+          "meaning_1": "kunanga nepfuti",
+          "meaning_2": "",
+          "example_sentence": "Akaereka pfuti akananga tsuro musango",
+          "similar_words": "Tonda,Tondeka"
+        },
+        
+        {
+          "word":"tondeka",
+          "meaning_1": "kunanga nepfuti",
+          "meaning_2": "",
+          "example_sentence": "Akatondeka pfuti akananga tsuro musango",
+          "similar_words": "Ereka,Tonda"
+        },
+        {
+          "word":"tonda",
+          "meaning_1": "kunanga nepfuti",
+          "meaning_2": "",
+          "example_sentence": "Akatonda pfuti akananga tsuro musango",
+          "similar_words": "Ereka,Tondeka"
+        },
+        {
+          "word":"Kanuka",
+          "meaning_1": "kubengenuka zvakaitika",
+          "meaning_2": "",
+          "example_sentence": "Aka kanuka abaiwa nebanga achifamba husiku",
+          "similar_words": "Erekana"
+        },
+        {
+          "word":"erekana",
+          "meaning_1": "kubengenuka zvakaitika",
+          "meaning_2": "",
+          "example_sentence": "Akaerekana abaiwa nebanga achifamba husiku",
+          "similar_words": "Kanuka"
+        },
+        {
+          "word":"Kuyerera",
+          "meaning_1": "izwi rinotsangura mafambaro anoita mvura kana ichibva panzvimbo yakakwirira",
+          "meaning_2": "",
+          "example_sentence": "Kuyerera kwakaita mvura musi weMuvhuro kwakaita kuti vana vatsvedze pakuenda kuchikoro.",
+          "similar_words": "Erera"
+        },
+        {
+          "word":"erera",
+          "meaning_1": "izwi rinotsangura mafambaro anoita mvura kana ichibva panzvimbo yakakwirira",
+          "meaning_2": "",
+          "example_sentence": "Mvura yai erera",
+          "similar_words": "Kuyerera"
+        },
+        {
+          "word":"ererana",
+          "meaning_1": "",  
+          "meaning_2": "",
+          "example_sentence": "",
+          "similar_words": ""
+        },
+        {
+          "word":"vhangero",
+          "meaning_1": "bhuku rakanyorwa mashoko ezvechitendero choukristu",
+          "meaning_2": "",
+          "example_sentence": "Baba vakaverengera mwana wavo evhangero musi weSvondo",
+          "similar_words": "bhaibheri"
+        },
+        {
+          "word":"bhaibheri",
+          "meaning_1": "bhuku rakanyorwa mashoko ezvechitendero choukristu",
+          "meaning_2": "",
+          "example_sentence": "baba vakaverengera mwana wavo bhaibheri musi weSvondo",
+          "similar_words": "evhangero"
+        },
+        {
+          "word":"evo",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "evo amai, musikana akadaro",
+          "similar_words": "vonyi,hongu"
+        },
+        {
+          "word":"evonyi",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "evonyi amai, musikana akadaro",
+          "similar_words": "evo,Hongu"
+        },
+        {
+          "word":"hongu",
+          "meaning_1": "izwi rekubvumira",
+          "meaning_2": "",
+          "example_sentence": "Hongu amai, musikana akadaro",
+          "similar_words": "Evo,Evonyi"
+        },
+        {
+          "word":"enzvo",
+          "meaning_1": "izwi rekushamiswa",
+          "meaning_2": "",
+          "example_sentence": "enzvo, akadaro ashamisika aona chipoko.",
+          "similar_words": "hezvo"
+        },
+        {
+          "word":"hezvo",
+          "meaning_1": "izwi rekushamiswa",
+          "meaning_2": "",
+          "example_sentence": "hezvo, akadaro ashamisika aona chipoko.",
+          "similar_words": "enzvo"
+        },
+        
+        {  
+          "word":"fachuka",
+          "meaning_1":"Kurasikira kunoita mvura kana yazarisa",
+          "meaning_2":"",
+          "example_sentence":"rwizi rwakarara ruchifachuka pakanaya mvura mahusika",
+          "similar_words":"fashuka"
+          
+        },
+        {  
+          "word":"fashuka",
+          "meaning_1":"Kurasikira kunoita mvura kana yazarisa",
+          "meaning_2":"",
+          "example_sentence":"rwizi rwakarara ruchifashuka pakanaya mvura mahusika",
+          "similar_words":"fachuka"
+          
+        },
+        {  
+          "word":"fadza",
+          "meaning_1":"kukonzera kuti munhu afare",
+          "meaning_2":"",
+          "example_sentence":"vakamufadza pavakamupa mari yekuendesa kuchikoro",
+          "similar_words":"kunakidza"
+          
+        },
+        {  
+          "word":"faera",
+          "meaning_1":"mudziyo wokurodzesa matemo,mapanga",
+          "meaning_2":"",
+          "example_sentence":"vakashandisa faera kurodzesa matemo akanga agomarara",
+          "similar_words":"faira"
+          
+        },
+        {  
+          "word":"faira",
+          "meaning_1":"mudziyo wokurodzesa matemo,mapanga",
+          "meaning_2":"",
+          "example_sentence":"vakashandisa faira kurodzesa matemo akanga agomarara",
+          "similar_words":"faera"
+          
+        },
+        {  
+          "word":"fafadza",
+          "meaning_1":"kumwaya-mwaya tumvura",
+          "meaning_2":"",
+          "example_sentence":"amai vakafafadza tumvura pahuni pavakanga vapedza kubika",
+          "similar_words":"fafaidza"
+          
+        },
+        {  
+          "word":"fafaidza",
+          "meaning_1":"kumwaya-mwaya tumvura",
+          "meaning_2":"",
+          "example_sentence":"amai vakafafaidza tumvura pahuni pavakanga vapedza kubika",
+          "similar_words":"fafadza"
+          
+        },
+        {  
+          "word":"fafitera",
+          "meaning_1":"Iri iburi rinosiyiwa pachidziro chemba pamunenge muchivaka, iro rozovharwa nemagirazi anovhurika, kuti pazopota pachipinda napo chiedza nomweya wokufema",
+          "meaning_2":"",
+          "example_sentence":"vana vakapwanya fafitera vachitamba bhora",
+          "similar_words":"hwindo"
+          
+        },
+        {  
+          "word":"hwindo",
+          "meaning_1":"iri iburi rinosiyiwa pachidziro chemba pamunenge muchivaka, iro rozovharwa nemagirazi anovhurika, kuti pazopota pachipinda napo chiedza nomweya wokufema",
+          "meaning_2":"",
+          "example_sentence":"vana vakapwanya hwindo vachitamba bhora",
+          "similar_words":"fafitera"
+         
+        },
+        {  
+          "word":"famba",
+          "meaning_1":"kuenda kune imwe nzvimbo",
+          "meaning_2":"",
+          "example_sentence":"vakare vaifamba nzendo ndefu netsoka",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fakaza",
+          "meaning_1":"Kupa uchapupu panyaya",
+          "meaning_2":"",
+          "example_sentence":"mukomana akafakaza panyaya yeshamwari yakanga yapara  mhosva",
+          "similar_words":"fakazi"
+          
+        },
+        {  
+          "word":"fakazi",
+          "meaning_1":"Kupa uchapupu panyaya",
+          "meaning_2":"",
+          "example_sentence":"mukomana akafakaza panyaya yeshamwari yakanga yapara  mhosva",
+          "similar_words":"fakaza"
+          
+        },
+        {  
+          "word":"fana",
+          "meaning_1":"kutarisika somumwe kana sechimwe chinhu",
+          "meaning_2":"",
+          "example_sentence":"vakazvara mwanasikana akafana baba vake",
+          "similar_words":"fanana"
+          
+        },
+        {  
+          "word":"fanana",
+          "meaning_1":"kutarisika somumwe kana sechimwe chinhu",
+          "meaning_2":"",
+          "example_sentence":"vakazvara mwanasikana akafanana nababa vake",
+          "similar_words":"fana"
+          
+        },
+        {  
+          "word":"fani",
+          "meaning_1":"izwi rinoreva kuti zvakanyanya",
+          "meaning_2":"",
+          "example_sentence":"Gumbo rangu ririkurwadza fani",
+          "similar_words":"chaizvo"
+          
+        },
+        {  
+          "word":"chaizvo",
+          "meaning_1":"izwi rinoreva kuti zvakanyanya",
+          "meaning_2":"",
+          "example_sentence":"Gumbo rangu ririkurwadza chaizvo",
+          "similar_words":"fani"
+          
+        },
+        {  
+          "word":"fananidza",
+          "meaning_1":"Kuenzanisa zviviri kana zvizhinji",
+          "meaning_2":"",
+          "example_sentence":"haungafananidza mhuka ipenyu neyakafa",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fanira",
+          "meaning_1":"Kusungirwa kuita chinhu kana kuva chinhu ichocho",
+          "meaning_2":"",
+          "similar_words":"",
+          "example_sentence":"vabereki vanofanira kuremekedzwa"
+        },
+        {  
+          "word":"fanza",
+          "meaning_1":"Kurira kunoita mvura inenge ichivira pamoto",
+          "meaning_2":"",
+          "similar_words":"",
+          "example_sentence":"shevedza amai vako kana mvura iripamoto yafanza"
+        },
+        {  
+          "word":"fara",
+          "meaning_1":"kunakidzwa mumwoyo pamusana pekuitirwa kana kunzwa zvakanaka",
+          "meaning_2":"kupamhama kwechinhu",
+          "similar_words":"farira",
+          "example_sentence":"baba vake vakafara pavakapinzwa basa"
+        },
+        {  
+          "word":"farira",
+          "meaning_1":"kunakidzwa mumwoyo pamusana pekuitirwa kana kunzwa zvakanaka",
+          "meaning_2":"kupamhama kwechinhu",
+          "example_sentence":"baba vake vakafarira mwana wavo paakapinzwa basa kuhurumende",
+         "similar_words":"farira"
+          
+        },
+        {  
+          "word":"faranuka",
+          "meaning_1":"Kusununguka mumwoyo",
+          "meaning_2":"",
+          "example_sentence":"kana akafaranuka anotaurisa",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fararika",
+          "meaning_1":"Kutekeshera vakamira mumutsetse",
+          "meaning_2":"",
+          "example_sentence":"vana vechikoro vanga vakafararika pamutsetse pavaipihwa chikafu",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fararira",
+          "meaning_1":"zvinhu zvakawanda semombe kana mbudzi zhinji",
+          "meaning_2":"",
+          "example_sentence":"mombe padzakaenda kumafuro dzakanga dzakaita fararira musango ",
+          "similar_words":"fararika"
+          
+        },
+        {  
+          "word":"fararika",
+          "meaning_1":"zvinhu zvakawanda semombe kana mbudzi zhinji",
+          "meaning_2":"",
+          "example_sentence":"mombe padzakaenda kumafuro dzakanga dzakaita fararika musango ",
+          "similar_words":"fararika"
+          
+        },
+        {  
+          "word":"fashafasha",
+          "meaning_1":"Kuwanda kwemvura kana hwahwa",
+          "meaning_2":"",
+          "example_sentence":"hwahwa hwanga hwakati fashafasha pamuchato",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fashama",
+          "meaning_1":"Kuzarisa kunoita mvura murwizi kana mumudziyo",
+          "meaning_2":"",
+          "example_sentence":"mvura yakafashama nepamusoro pebhiriji pakwakarara kuchinaya husiku hwese",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fashanuka",
+          "meaning_1":"kubuda pamwechete kwezvipuka kana vanhu",
+          "meaning_2":"",
+          "example_sentence":"ishwa dzinofashanuka kana mvura yanaya",
+          "similar_words":"fashu,fashanu"
+          
+        },
+        {  
+          "word":"fashu",
+          "meaning_1":"kubuda pamwechete kwezvipuka kana vanhu",
+          "meaning_2":"",
+          "example_sentence":"ishwa dzinoti fashu kana mvura yanaya",
+          "similar_words":"fashuka,fashanu"
+          
+        },
+        {  
+          "word":"fashanu",
+          "meaning_1":"kubuda pamwechete kwezvipuka kana vanhu",
+          "meaning_2":"",
+          "example_sentence":"ishwa dzinoti fashanu kana mvura yanaya",
+          "similar_words":"fashuka,fashanuka"
+          
+        },
+        {  
+          "word":"fata",
+          "meaning_1":"Mupristi wechechi anoteurira vanhu mupiro kuna Mwari",
+          "meaning_2":"",
+          "example_sentence":"mafata ekuchechi yeRoma vanopfeka hembe chena",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"feira",
+          "meaning_1":"kukundikana muzvidzidzo",
+          "meaning_2":"",
+          "example_sentence":"mwana wamai Nyamuka akafeira dzidzo yegore rekutanga",
+          "similar_words":"foira"
+          
+        },
+        {  
+          "word":"foira",
+          "meaning_1":"kukundikana muzvidzidzo",
+          "meaning_2":"",
+          "example_sentence":"mwana wamai Nyamuka akafoira dzidzo yegore rekutanga",
+          "similar_words":"foira"
+          
+        },
+        {  
+          "word":"fekitari",
+          "meaning_1":"Nzvimbo ine michina mikuru yokugadzirisa zvipfeko nezvokudya nezvokurimisa nemichina",
+          "meaning_2":"",
+          "example_sentence":"fekitari yaigadzirwa shangu dzevana vechikoro  kuHarare yakabvira ikaparara",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fema",
+          "meaning_1":"Kuisa mweya mumapapu, nokuuburitsa zvakare",
+          "meaning_2":"",
+          "example_sentence":"dhokotera akabata murwere paditi akanzwa achiri kufemereka",
+          "similar_words":"femereka"
+          
+        },
+        {  
+          "word":"femba",
+          "meaning_1":"Kukwevera mweya mumhuno",
+          "meaning_2":"kusvuta fodya yomumhuno",
+          "example_sentence":"ambuya vake vanofemba fodya vasati varara",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fembera",
+          "meaning_1":"Kutaura Zvakaitika iwe usipo kana kutaura zvichazoitika",
+          "meaning_2":"",
+          "example_sentence":"mwana  akafembera kuti vabereki vaizoita tsaona vari mumugwagwa kuenda kubasa",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fenda",
+          "meaning_1":"Kuita sokumbofa mukurwara nomukurohwa kana pakunzwa mashoko akaipa",
+          "meaning_2":"",
+          "example_sentence":"mudzimai akafenda paakanzwa zvokufa kwomurume wake",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"ferefeta",
+          "meaning_1":"Kubvunza mibvunzo vokuda kuziva zvakavandika",
+          "meaning_2":"kubvunza muchivande",
+          "example_sentence":"mapurisa akaferefeta vanhu vomusha achida kuziva kwaanga ari",
+          "similar_words":"feya"
+          
+        },
+        {  
+          "word":"feya",
+          "meaning_1":"Kubvunza mibvunzo vokuda kuziva zvakavandika",
+          "meaning_2":"kubvunza muchivande",
+          "example_sentence":"mapurisa akafeya vanhu vomusha achida kuziva kwaanga ari",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fetiraiza",
+          "meaning_1":"Manyowa anogadzirwa mufekitari",
+          "meaning_2":"",
+          "example_sentence":"chibage chikaiswa fetiraiza chinokura zvakanaka",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fikura",
+          "meaning_1":"Kuchema kusiri kwokuzhambarara",
+          "meaning_2":"",
+          "example_sentence":"mudzimai akafikura paakanzwa nezvetsaona yakanga yaita murume wake",
+          "similar_words":"pfikura"
+          
+        },
+        {  
+          "word":"pfikura",
+          "meaning_1":"Kuchema kusiri kwokuzhambarara",
+          "meaning_2":"",
+          "example_sentence":"mudzimai akapfikura paakanzwa nezvetsaona yakanga yaita murume wake",
+          "similar_words":"fikura"
+          
+        },
+        {  
+          "word":"fimbi",
+          "meaning_1":"gomba rekuisa muchero usina kuibva kuti iibve",
+          "meaning_2":"",
+          "example_sentence":"baba vakakangnwa pakanga vaisa fimbi yavo yemazhanje akanga asina kuibva ",
+          "similar_words":"pfimbi"
+          
+        },
+        {  
+          "word":"pfimbi",
+          "meaning_1":"gomba rekuisa muchero usina kuibva kuti iibve",
+          "meaning_2":"",
+          "example_sentence":"baba vakakangnwa pakanga vaisa pfimbi yavo yemazhanje akanga asina kuibva ",
+          "similar_words":"fimbi"
+          
+        },
+        {  
+          "word":"finha",
+          "meaning_1":"kunyanyisa kunokonzera kushaya chido",
+          "meaning_2":"",
+          "example_sentence":"matauriro omukadzi wake andifinha ",
+          "similar_words":"kufinhwa"
+        
+        },
+        {  
+          "word":"finhwa",
+          "meaning_1":"kunyanyisa kunokonzera kushaya chido",
+          "meaning_2":"",
+          "example_sentence":"matauriro omukadzi wake andifinhwa ",
+          "similar_words":"finha"
+          
+        },
+        {  
+          "word":"finyama",
+          "meaning_1":"Zvinoita munhu pameso kana achiona chinosemesa kana kuti chaasingadi",
+          "meaning_2":"",
+          "example_sentence":"musikana akafinyamira vakomana vakanga vamudenha",
+          "similar_words":" finyinya"
+          
+        },
+        {  
+          "word":"finyinya",
+          "meaning_1":"Zvinoita munhu pameso kana achiona chinosemesa kana kuti chaasingadi",
+          "meaning_2":"",
+          "example_sentence":"musikana akafinyamira vakomana vakanga vamudenha",
+          "similar_words":" finyama"
+          
+        },
+        {  
+          "word":"fobha",
+          "meaning_1":"kuranga nezvibhakera",
+          "meaning_2":"",
+          "example_sentence":"akafobha mbavha yakanga yauya kuzoba pamba pavo husiku",
+          "similar_words":"rova"
+          
+        },
+        {  
+          "word":"rova",
+          "meaning_1":"kuranga nezvibhakera",
+          "meaning_2":"",
+          "example_sentence":"akarova mbavha yakanga yauya kuzoba pamba pavo husiku",
+          "similar_words":"fobha"
+          
+        },
+        {  
+          "word":"fodya",
+          "meaning_1":"chinoputwa chiri mudzanga kana kuti chiri muchikwepa",
+          "meaning_2":"",
+          "example_sentence":"baba vake vajaira kugara vachiputa fodya pese pavanenge vari",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fomoka",
+          "meaning_1":"kuvhomoka kubva mukati kana muzvizhinji",
+          "meaning_2":"",
+          "example_sentence":"mhepo yakavhuvhuta uswa hukafomoka padenga",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"foni",
+          "meaning_1":"mudziyo unotakura mazwi nesimba remagetsi unoshandiswa kutaura nemumwe ari kure",
+          "meaning_2":"",
+          "example_sentence":"foni yakatengerwa kuti azotaura namai vake vanogara kumusha yakarasika ",
+          "similar_words":"runhare"
+          
+        },
+        {  
+          "word":"runhare",
+          "meaning_1":"mudziyo unotakura mazwi nesimba remagetsi unoshandiswa kutaura nemumwe ari kure",
+          "meaning_2":"",
+          "example_sentence":"runhare yakatengerwa kuti azotaura namai vake vanogara kumusha yakarasika ",
+          "similar_words":"foni"
+          
+        },
+        {  
+          "word":"foro",
+          "meaning_1":"mutsetse unocherwa negejo pakurima",
+          "meaning_2":"",
+          "example_sentence":"varume vakaisa foro mumunda pavaida kurima nzungu ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"foroma",
+          "meaning_1":"kugadzira zvidinha nedhaka",
+          "meaning_2":"kuchengeta vanhu vari kuita basa kuti vaite zvakanaka",
+          "example_sentence":"akapihwa basa rokuforoma vashandi vomumugwagwa ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"foromani",
+          "meaning_1":"munhu anoshandisa vamwe pabasa",
+          "meaning_2":"",
+          "example_sentence":"musikana akadzingwa pabasa naforomani vake",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"foto",
+          "meaning_1":"mufananidzo wemunhu kana wechinhu",
+          "meaning_2":"",
+          "example_sentence":"pamuchato paitorwa vanhu mafoto akanaka ",
+          "similar_words":"pikicha"
+          
+        },
+        {  
+          "word":"fototo",
+          "meaning_1":"kuserera kunoita managa muzere mweya",
+          "meaning_2":"",
+          "example_sentence":"vhiri remotokari rake yake rakabayiwa nechipikiri rikati fototo ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fototoka",
+          "meaning_1":"kupera mweya kunoita change chakafututuka",
+          "meaning_2":"",
+          "similar_words":"fofotodza",
+          "example_sentence":"bhora ravana rafofotoka apo rakabaiwa nomunzwa"
+        },
+        {  
+          "word":"fototodza",
+          "meaning_1":"kupera mweya kunoita change chakafututuka",
+          "meaning_2":"",
+          "example_sentence":"bhora ravana rafofotodza apo rakabaiwa nomunzwa",
+          "similar_words":"fofotoka"
+          
+        },
+        {  
+          "word":"foya",
+          "meaning_1":"kureva nhema",
+          "meaning_2":"",
+          "example_sentence":"mwana akafoya pakashaikwa mari mumba ",
+          "similar_words":"kunyepa"
+          
+        },
+        {  
+          "word":"kunyepa",
+          "meaning_1":"kureva nhema",
+          "meaning_2":"",
+          "example_sentence":"mwana akanyepa pakashaikwa mari mumba ",
+          "similar_words":"foya"
+          
+        },
+        {  
+          "word":"fuchira",
+          "meaning_1":"kuzadza gomba nevhu kana kufukidza nevhu",
+          "meaning_2":"",
+          "example_sentence":"vakakanda imbwa yakanga yakafa mugomba vakafuchira nevhu ",
+          "similar_words":"fuchira, fusira,"
+          
+        },
+        {  
+          "word":"fusira",
+          "meaning_1":"kuzadza gomba nevhu kana kufukidza nevhu",
+          "meaning_2":"",
+          "example_sentence":"vakakanda imbwa yakanga yakafa mugomba vakafusira nevhu ",
+          "similar_words":"fuchira, fusira,"
+          
+        },
+        {  
+          "word":"fuduguka",
+          "meaning_1":"kushama kunoita chinokwidibika",
+          "meaning_2":"",
+          "example_sentence":"akafudugura mvura yaive pamoto kuti aone yanga yavira ",
+          "similar_words":"fudugura,kudubura,pfudugura"
+          
+        },
+        {  
+          "word":"kudubura",
+          "meaning_1":"kushama kunoita chinokwidibika",
+          "meaning_2":"",
+          "example_sentence":"akakudubura mvura yaive pamoto kuti aone yanga yavira ",
+          "similar_words":"fuduguka,fudugura,pfudugura"
+        
+        },
+        {  
+          "word":"pfudugura",
+          "meaning_1":"kushama kunoita chinokwidibika",
+          "meaning_2":"",
+          "example_sentence":"akapfudugura mvura yaive pamoto kuti aone yanga yavira ",
+          "similar_words":"fudugura,kudubura,fuduguka"
+          
+        },
+        {  
+          "word":"fudza",
+          "meaning_1":"kuchengeta zvipfuyo kumafuro zvinoitwa mombe",
+          "meaning_2":"mweya kana kuti shungu dzokuda kuparadza muchato wevamwe pamusana pegodo",
+          "example_sentence":"vana vadiki kumusha ndivo vanofudza mombe ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fudzi",
+          "meaning_1":" ndipo panomera ruoko, rwuchirembera kubva kumusoro kudundundu",
+          "meaning_2":"",
+          "example_sentence":"Takura danda pafudzi tiende",
+          "similar_words":"pfudzi"
+          
+        },
+        {  
+          "word":"pfudzi",
+          "meaning_1":" ndipo panomera ruoko, rwuchirembera kubva kumusoro kudundundu",
+          "meaning_2":"",
+          "example_sentence":"Takura danda papfudzi tiende",
+          "similar_words":"fudzi"
+          
+        },
+        {  
+          "word":"fuga",
+          "meaning_1":"kuzvimoneredza negumbeze kana kuti jira",
+          "meaning_2":"",
+          "example_sentence":"akarara husiku hwese akafuga gumbeze rimwechete",
+          "similar_words":"fuka"
+          
+        },
+        {  
+          "word":"fuka",
+          "meaning_1":"kuzvimoneredza negumbeze kana kuti jira",
+          "meaning_2":"",
+          "example_sentence":"akarara husiku hwese akafuka gumbeze rimwechete",
+          "similar_words":"fuga"
+          
+        },
+        {  
+          "word":"fugura",
+          "meaning_1":"kubvisa zvakafukidza muviri",
+          "meaning_2":"",
+          "example_sentence":"akafugura magumbeze nokuti kwaipisa",
+          "similar_words":"fukura"
+          
+        },
+        {  
+          "word":"fukura",
+          "meaning_1":"kubvisa zvakfukidza muviri",
+          "meaning_2":"",
+          "example_sentence":"akafukura magumbeze nokuti kwaipisa",
+          "similar_words":"fugura"
+          
+        },
+        {  
+          "word":"fukatira",
+          "meaning_1":"kupa munhu gotsi kana kuti kurega kutarisana nemunhu",
+          "meaning_2":"",
+          "example_sentence":"musikana pakanzwa kutaura kwamai vake pamusiwo akafukatira akatanga kutiza",
+          "similar_words":"furatira"
+          
+        },
+        {  
+          "word":"furatira",
+          "meaning_1":"kupa munhu gotsi kana kuti kurega kutarisana nemunhu",
+          "meaning_2":"",
+          "example_sentence":"musikana pakanzwa kutaura kwamai vake pamusiwo akafuratira akatanga kutiza",
+          "similar_words":"fukatira"
+          
+        },
+        {  
+          "word":"fuko",
+          "meaning_1":"ijira kana kuti gumbeze kana chipfeko chokupfekedza kana kuputira mufi",
+          "meaning_2":" ijira kana kuti gumbeze rinopuwa ambuya kana kuti mbuyawasha kunyaradza mweya wavo",
+          "example_sentence":"mwana wavo ndiye akatenga pfuko yakapfekedzwa amai vake",
+          "similar_words":"pfuko"
+          
+        },
+       { 
+        "word":"pfuko",
+        "meaning_1":"ijira kana kuti gumbeze kana chipfeko chokupfekedza kana kuputira mufi",
+        "meaning_2":" ijira kana kuti gumbeze rinopuwa ambuya kana kuti mbuyawasha kunyaradza mweya wavo",
+        "example_sentence":"mwana wavo ndiye akatenga pfuko yakapfekedzwa amai vake",
+        "similar_words":"fuko"
+        
+      },
+        {  
+          "word":"fuma",
+          "meaning_1":"kumuka mangwanani-ngwanani",
+          "meaning_2":"",
+          "example_sentence":" vakafuma kuenda kunokwira bhazi raienda kuHarare ",
+          "similar_words":"fumira"
+          
+        },
+        {  
+          "word":"fumira",
+          "meaning_1":"kumuka mangwanani-ngwanani",
+          "meaning_2":"",
+          "similar_words":"fuma",
+          "example_sentence":" vakafuma kuenda kunokwira bhazi raienda kuHarare " 
+        },
+        {  
+          "word":"fumuka",
+          "meaning_1":"Kuzivikanwa maitiro namagariro kazhinji akaipa nani wose",
+          "meaning_2":"",
+          "similar_words":"fondora",
+          "example_sentence":"musikana akavengwa neshamwari dzake nekuty ane hunhu wakafumuka"
+        },
+        {  
+          "word":"fondora",
+          "meaning_1":"Kuzivikanwa maitiro namagariro kazhinji akaipa nani wose",
+          "meaning_2":"",
+          "example_sentence":"musikana akavengwa neshamwari dzake nekuty ane hunhu wakafondora",
+          "similar_words":"fumuka"
+          
+        },
+        {  
+          "word":"funa",
+          "meaning_1":"kuisa mazino pachena sezvinoita imbwa",
+          "meaning_2":"kuseka mazino aripachena",
+          "example_sentence":"vana vakatanga kufuna mudzidzisi abuda panze ",
+          "similar_words":"nyinura"
+          
+        },
+        {  
+          "word":"nyinura",
+          "meaning_1":"kuisa mazino pachena sezvinoita imbwa",
+          "meaning_2":"kuseka mazino aripachena",
+          "example_sentence":"vana vakatanga kunyinura mudzidzisi abuda panze ",
+          "similar_words":"funa"
+          
+        },
+        {  
+          "word":"funda",
+          "meaning_1":"kutsvaga zivo nezvimwewo",
+          "meaning_2":"",
+          "example_sentence":"Thomas ari kufunda kutyaira motokari",
+          "similar_words":"dzidza"
+        
+        },
+        {  
+          "word":"dzidza",
+          "meaning_1":"kutsvaga zivo nezvimwewo",
+          "meaning_2":"",
+          "example_sentence":"Thomas ari kudzidza kutyaira motokari",
+          "similar_words":"funda"
+          
+        },
+        {  
+          "word":"fundo",
+          "meaning_1":"ruzivo nokukura kwezvipo zvose zvounhu",
+          "meaning_2":"",
+          "similar_words":"dzidzo",
+          "example_sentence":"akawana basa rakaendera nefundo dzakaita kuchikoro  "
+        },
+        {  
+          "word":"dzidzo",
+          "meaning_1":"ruzivo nokukura kwezvipo zvose zvounhu",
+          "meaning_2":"",
+          "example_sentence":"akawana basa rakaendera nedzidzo dzakaita kuchikoro  ",
+          "similar_words":"fundo"
+          
+        },
+        {  
+          "word":"funga",
+          "meaning_1":"kushandisa uropi kana kuti kusevenzesa pfungwa",
+          "meaning_2":"",
+          "example_sentence":"Tinashe akafunga kutengera amai vake imba pakawana mari kupera kwegore kubasa ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fungidziro",
+          "meaning_1":"kuva nepfungwa yokuti munhu aita kana chinhu chaitika sokufunga kwako asi usina chokwadi kana zivo",
+          "meaning_2":"",
+          "example_sentence":"akaita fungidziro dzakashata paakaona shamwari yake yakapfeka hembe yakashama musana ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"funidza",
+          "meaning_1":"kunhuwidza kuda kunzwa hwema kana munhuwi",
+          "meaning_2":"",
+          "example_sentence":"imbwa yakafunidza mugwenzi ikapinimidza muswe ",
+          "similar_words":"femedza"
+          
+        },
+        {  
+          "word":"fupa",
+          "meaning_1":"kupa kana kuitira munhu chimwe kuti akanganwe zvaakatadzirwa",
+          "meaning_2":"bhonzo",
+          "example_sentence":"vakamufupa nemombe mbiri pavakadyisa mumunda make nemombe dzavo",
+          "similar_words":"pfupa"
+          
+        },
+        {  
+          "word":"fupika",
+          "meaning_1":"kuva munhu asina kureba pakukura",
+          "meaning_2":"",
+          "example_sentence":"anosusumhira kuti atore bhotoro nekuti akapfupika",
+          "similar_words":"pfupika"
+          
+        },
+        {  
+          "word":"furaimachina",
+          "meaning_1":"muchina unofamba nomudenga, unoshandiswa kuatakura vanhu",
+          "meaning_2":"",
+          "example_sentence":"vakakwira furaimachina kuenda mhiri kwemakungwa",
+          "similar_words":"ndege"
+          
+        },
+        {  
+          "word":"furamera",
+          "meaning_1":" Urwu rumwe rudzi rwekapuka kanobhurururuka nokutaridzika sengoko kana kuti nyamututa.",
+          "meaning_2":"",
+          "example_sentence":"akaona kafuramera mumba akatanga kutya",
+          "similar_words":"mafuramera"
+          
+        },
+        {  
+          "word":"furidza",
+          "meaning_1":"kuburitsa mweya nomumuromo zvine simba pakukuhwidza moto kana kudzima rambi",
+          "meaning_2":"",
+          "example_sentence":"musikana akafuridza nhindi yenyama kuti ipore ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"furira",
+          "meaning_1":"kukonzera mumwe kuita zvakaipa",
+          "meaning_2":"",
+          "example_sentence":"ukaita hushamwari nembavha unofurirwa kuba ",
+          "similar_words":"runya, runzira"
+          
+        },
+        {  
+          "word":"furo",
+          "meaning_1":"kututuma kunoita sipo mumvura kana kututma kwemvura yoga ichiburitsa zvichena" , 
+            "meaning_2":"",
+            "example_sentence":"mwana akazadza mvura yose nefuro paaigeza muviri",
+            "similar_words":"furu"
+            
+          },
+        {  
+          "word":"furuka",
+          "meaning_1":"kusanyatsoibva pamusana pomoto unodzima zviri kubikwa zvisati zvaibva",
+          "meaning_2":"",
+          "example_sentence":"kuchidzira  moto chibage chirege kufuruka",
+          "similar_words":"fuwa"
+          
+        },
+        {  
+          "word":"furura",
+          "meaning_1":"kubvisa mashizha pamuguri wechibage",
+          "meaning_2":"",
+          "example_sentence":"mumwedzi waChivabvu varimi vanofurura chibage",
+          "similar_words":""
+        
+        },
+        {  
+          "word":"furusa",
+          "meaning_1":"kukanganisa munhu pane zvaarikuita",
+          "meaning_2":"",
+          "similar_words":"furutsa,pfuvisa",
+          "example_sentence":"sora rinofurusa chibage kukura zvakanaka"
+        },
+        {  
+          "word":"fusha",
+          "meaning_1":"Kubika zvakaita somuriwo wamashizha nokuyanika kuti uome, urege kuora uri munyoro",
+          "meaning_2":"",
+          "example_sentence":"vakadzi vazhinji vanofarira kufusha munyemba ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fushuka",
+          "meaning_1":"kubuda kunoita zvinhu zvizhinji panhuva imwe chete",
+          "meaning_2":"",
+          "example_sentence":"dhamu rakazarisa mvura ikafushuka ",
+          "similar_words":"foshoka"
+          
+        },
+        {  
+          "word":"futa",
+          "meaning_1":"kukora kunoita chose chose",
+          "meaning_2":"kuitira munhu zvakanga asingafungiri kuti ndizvo zvava kuitika",
+          "example_sentence":"musikana uyu akanyanya kudyisa anotanga kufuta ",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"futada",
+          "meaning_1":"chanza neminwe yakatambanudzwa",
+          "meaning_2":"",
+          "example_sentence":" ",
+          "similar_words":"mbama"
+          
+        },
+        {  
+          "word":"futi",
+          "meaning_1":"izwi rinoreva kupamhidzira pane zvamborehwa",
+          "meaning_2":"",
+          "example_sentence":"akadzokorora kutaura futi nyaya yaainge ambobvunza nezvayo ",
+          "similar_words":"uuye, zvakare"
+          
+        },
+        {  
+          "word":"futunuka",
+          "meaning_1":"kukura kunoita chaiswa mweya sechubhu yebhasikoro kana yaiswa mweya",
+          "meaning_2":"",
+          "example_sentence":"parachuti haitane kufutunuka nemhepo",
+          "similar_words":""
+          
+        },
+        {  
+          "word":"fuza",
+          "meaning_1":"munhu akadzungaira asina njere",
+          "meaning_2":"",
+          "example_sentence":"mwana wavo anooneka kuti ifuza anopedzera mari yake kubhawa achinwa doro  ",
+          "similar_words":"dutuwende,rema"
+          
+        },
+        {    
+            "word":"dutuwende",
+            "meaning_1":"munhu akadzungaira asina njere",
+            "meaning_2":"",
+            "example_sentence":"mwana wavo anooneka kuti ifuza anopedzera mari yake kubhawa achinwa doro  ",
+            "similar_words":"rema, fuza"
+            
+          },
+          {  
+          "word":"rema",
+          "meaning_1":"munhu akadzungaira asina njere",
+          "meaning_2":"",
+          "example_sentence":"mwana wavo anooneka kuti ifuza anopedzera mari yake kubhawa achinwa doro  ",
+          "similar_words":"fuza,dutuwende"
+          
+        }
+
+
+
+        
+        ]
+    }  
